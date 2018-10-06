@@ -2,8 +2,8 @@ class SpeedOfLight{
     public static void  main(String args[]){
         int lightSpeed;
         int days;
-        int seconds;
-        long distance;
+        long seconds; // int can't hold the value here. 
+        long distance;  // int can't hold the value here. 
 
         // approximate speed of light in miles per second
         lightSpeed = 186000;
