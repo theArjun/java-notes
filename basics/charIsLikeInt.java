@@ -7,6 +7,6 @@ class CharIsLikeInt{
         System.out.println("ch1 : "+ch1);
         ch1++; // Here is the operation that increases the ASCII value of the character.
         System.out.println("ch1 : "+ch1);
-
+        
     }
 }
