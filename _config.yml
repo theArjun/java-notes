@@ -22,3 +22,4 @@ compress_html:
   blanklines: false
   profile: false
 startings: [html, head, body]
+theme: jekyll-theme-cayman
