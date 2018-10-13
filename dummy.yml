@@ -1,0 +1,25 @@
+# Site settings
+title: Java Programs
+description: The collection of practised Java Source Codes from Scratch to Advanced.
+baseurl: "https://thearjun.tech" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+twitter_username: thearjunad
+github_username:  thearjun
+exclude: [readme.md]
+sass:
+  style: compressed
+
+# Build settings
+markdown: kramdown
+
+# Compress HTML
+compress_html:
+  clippings: all
+  comments: []
+  endings: [p, li, td]
+  ignore:
+    envs: []
+  blanklines: false
+  profile: false
+startings: [html, head, body]
+theme: jekyll-theme-cayman
