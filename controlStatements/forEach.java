@@ -6,6 +6,8 @@ class ForEach{
         // Now we are using the for-each statements to display the elements of array.
         for(int x:nums){
             System.out.println("Value is : "+x);
+            sum+=x;
         }
+        System.out.println("Summation : "+sum);
     }
 }
