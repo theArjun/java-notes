@@ -2,7 +2,7 @@ class Exam{
     public static void main(String[] args){
         int percentage = 59;
 
-        if(percentage>100 && percentage<0){
+        if(percentage<100 && percentage>0){
             if(percentage >= 80){
                 System.out.println("Distinction\n");
             }
@@ -19,7 +19,7 @@ class Exam{
                 System.out.println("Fail");
             }
         }else{
-            System.out.println("Enter a valid percentage.");
+            System.out.println("Enter a valid percentage.\n");
         }
     }
 }
