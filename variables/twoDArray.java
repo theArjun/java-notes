@@ -15,6 +15,8 @@ class TwoDimensionalArray{
                 System.out.print(nums[i][j]+" "); /* Print doesn't gets printed in new line , but println does. Know the difference. */
             }
             System.out.println();
+            
         }
+        System.out.println(nums.getClass().getName()); // This returns the class name for corressponding array type.
     }
 }
