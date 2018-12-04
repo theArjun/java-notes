@@ -8,5 +8,6 @@ class Array{
         for(int i = 0; i<12;i++){
             System.out.println("Day : "+days[i]);
         }
+        System.out.println(days.getClass().getName());
     }
 }
