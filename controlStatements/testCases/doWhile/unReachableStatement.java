@@ -3,6 +3,6 @@ class DoWhile{
         do{
             System.out.println("Hello World");
         }while(true);
-        System.out.println("Hello Venus");
+        System.out.println("Hello Venus"); 
     }
 }
