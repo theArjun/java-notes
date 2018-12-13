@@ -1,7 +1,7 @@
 class ArrayRepresentation{
     public static void main(String[] args){
         // First the level of the array is pre-defined, and initial index of the array is mentioned in assignation.
-        int[][][] = new int [2][][]; 
+        int[][][] x = new int [2][][]; 
 
         // First Level
         x[0] = new int [3][];
