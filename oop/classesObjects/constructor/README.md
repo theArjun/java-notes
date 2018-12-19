@@ -1,6 +1,6 @@
 # Constructor
 
-![constructor](C:\Users\arjun\Desktop\constuctor.png)
+![constructor](https://www.thearjun.tech/array/constructor.png)
 
 - A constructor initializes an object immediately upon creation.
 - Constuctor has same name as the class it resides and it syntactically similar to a method.
