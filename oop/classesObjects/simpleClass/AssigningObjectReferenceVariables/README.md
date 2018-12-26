@@ -1,0 +1,3 @@
+# Assigning Object Reference Objects
+
+We might think that myBoxReferrer is being assigned a reference to a copy of the object referred to by myBox. That is, we might think that myBox and myBoxReferrer to a separate and distinct objects, However this would be wrong. Instead after this fragment executes myBox and myBoxReferrer will both refer to the same object. The assignment of myBox and myBoxReferrer did not allocate any memory or copy any part of the original object. It simply makes myBoxReferrer refer to the same object as does myBox, Thus, any changes made to the object through myBoxReferrer will affect the object to which myBox is referring, since they are the same object.
