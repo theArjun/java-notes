@@ -1,6 +1,8 @@
 class BoxDemo{
     public static void main(String[] args){
         Box myBox = new Box();
+        // Box myBoxOne;
+        // myBoxOne = new Box(); // We can declare and assign the objects this way, too.
         double volume;
 
         myBox.width = 10;
