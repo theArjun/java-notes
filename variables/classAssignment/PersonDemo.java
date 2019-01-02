@@ -9,6 +9,7 @@ class PersonDemo{
         personObjectTwo.enterRoom();
         personObjectTwo.enterRoom();
 
-        System.out.println("Total count = "+personObjectOne.countNo);
+        // System.out.println("Total count = "+personObjectOne.countNo);
+        System.out.println("Total count = "+Person.countNo); // This method is preferred though.
     }
 }
