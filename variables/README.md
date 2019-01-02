@@ -12,5 +12,29 @@ A. Based on the type of volume
 
 B. Based on the position od declaration or behaviour
 1. Instance Variable
+
+        class Student{
+            String name;
+            int rollNo;
+        }
+
+        name = Nishal  // Student One
+        rollNo = 20;
+
+        name = Biswas  // Kukur One
+        rollNo = 8;
+
+- For every object separate copy of name and rollno is created. This type of variable is instanec variable.
+- Instance variable are declared within a class and outside of method / block / constructor.
+- Instance variable are created at the time of object creation and destroy when object is destroyed.
+- They are also known as attributes.
+
+
+
+
+
+
+
 2. Static Variable
 3. Local Variable
+
