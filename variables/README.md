@@ -41,5 +41,28 @@ B. Based on the position od declaration or behaviour
 
     - Scope  
     ⏩ Created at the time of class loading and destroyed at the time of class unloading.
+
 3. Local Variable
 
+        [method]
+        void mOne{
+            int x = 10; // is not available outside for loop.
+        }
+
+        [block]
+        for(int i = 0; i<5; i++){
+            System.out.println(i); // is not available outside for loop.
+        }
+
+        [constructor]
+        Test(){
+            int x = 10;
+        }
+
+ - aka Local / Temporary / Stack / Automatic
+ - are stored in stack memory.
+ - Scope :
+    ⏩ Destroy after finishing method / block / constructor
+ - for every thread separate, local variable is created.
+ - For local variable, JVM won't provide default value. So, we must provide value explicitly before using it.
+ - For local variable, the only applicable modifier is final. 
