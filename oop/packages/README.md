@@ -34,3 +34,32 @@ Syntax :
 - Second, you can specify a directory path or paths by setting CLASSPATH environment variable.
 - Third, can use - CLASSPATH option with Java and javac to specify the path to your classes.
 
+## Importing Packages
+><b>Case I
+
+        // We can only use Date class in program.
+
+        import java.util.Date;
+        class MyDate extends Date{
+
+        }
+
+>Case II
+
+        // We can use every classes of util packages in program.
+
+        import java.util.*;
+        class MyDate extends Date{
+
+        }
+
+>Case III
+
+        // We can use any class we want; FQPM = Fully Qualified Package Name
+
+        class MyDate extends java.util.Date{
+
+        }
+</b>
+
+
