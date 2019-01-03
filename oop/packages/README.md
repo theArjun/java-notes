@@ -11,7 +11,8 @@
 - Any classes declared within that file will belong to the specified package.
 - If you omit the package statement, the class names are put into the default package, which has no name.
 
-In C and C++, header file  
+>In C and C++, header file  
+
 Syntax :
 
         package package_name;
@@ -25,4 +26,11 @@ Syntax :
 
         package com.nepal.java
         com \ nepal \ java
+
+## Finding Packages and CLASSPATH
+> How does the Java runtime system know where to look for package that you create ?
+
+- First, by default, the Java runtime system uses the current working directory as its starting point. Thus, if your package is in a sub directory of the current directory, it will be found.
+- Second, you can specify a directory path or paths by setting CLASSPATH environment variable.
+- Third, can use - CLASSPATH option with Java and javac to specify the path to your classes.
 
