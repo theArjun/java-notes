@@ -7,7 +7,7 @@
 ## Defining a Package
 
 > To create:
-- include a package command as the first statementin a Java source file.
+- include a package command as the first statement in a Java source file.
 - Any classes declared within that file will belong to the specified package.
 - If you omit the package statement, the class names are put into the default package, which has no name.
 
@@ -16,4 +16,13 @@ Syntax :
 
         package package_name;
 
+- Java uses file system directories to store packages.
+- For example, the .class files for any classes you declare to be part of myPackage must be stored in directory called MyPackage.
+
+> Directory name must match the package name exactly.
+
+-  Can create a hierarchy of package
+
+        package com.nepal.java
+        com \ nepal \ java
 
