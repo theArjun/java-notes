@@ -59,7 +59,27 @@ Syntax :
 
         class MyDate extends java.util.Date{
 
+        }    
+</b>
+
+## Types of packages
+
+1. User defined packages
+- Defined by the developers as poer their applicaion requirements.
+
+ <b>
+
+        Package abc;
+        Package bac;
+        Package cba;
+        class Test{
+
+
+
         }
 </b>
+
+2. Pre Defined Packages
+
 
 
