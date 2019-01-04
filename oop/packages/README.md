@@ -90,10 +90,22 @@ ii. exampleTwo : ```java.io```
 - To perform input and output operation.
 - Input Stream, ByteArrayInputStream, FileInputStream, OutputStream, Reader, Writer etc.
 
-iii. exampleOne : ```java.util```
+iii. exampleThree : ```java.util```
 - Representing all data structures.
 - List, Array List, Vector, Stack, LinkedList, Set, HasSet, Queue, SortedSet, Map, HashMap etc.
 
-iv. exampleOne : ```java.awt```
+iv. exampleFour : ```java.awt```
 - To prepare GUI application
 - Frame, Button, Label, List, TextField, TextArea etc.
+
+v. exampleFive : ```javax.swing```
+- To prepare GUI application
+- To overcome drawbacks of ```awt```
+
+vi. exampleSix : ```java.net```
+- To prepare distributed application on the basis of Socket Programming
+- Socket, URL, URLConnection
+
+vii. exampleSeven : ```java.sql```
+- To prepare JDBC applications
+- Driver, Connection, Statement
