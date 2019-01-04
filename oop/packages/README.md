@@ -81,5 +81,19 @@ Syntax :
 
 2. Pre Defined Packages
 
+- are defined by java programming language and provide along with java software.
 
+i. exampleOne : ```java.lang```
+- This is default packagem no need to import in JAVA. It is able to include all basic classes and interfaces which are required to prepare basic program system, object, String Buffer, String Builder Thread, Runnable, All Wrapper Classes (Byte, Short), Exception and its sub class come under ```java.lang```.
 
+ii. exampleTwo : ```java.io```
+- To perform input and output operation.
+- Input Stream, ByteArrayInputStream, FileInputStream, OutputStream, Reader, Writer etc.
+
+iii. exampleOne : ```java.util```
+- Representing all data structures.
+- List, Array List, Vector, Stack, LinkedList, Set, HasSet, Queue, SortedSet, Map, HashMap etc.
+
+iv. exampleOne : ```java.awt```
+- To prepare GUI application
+- Frame, Button, Label, List, TextField, TextArea etc.
