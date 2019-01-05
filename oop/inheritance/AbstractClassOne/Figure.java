@@ -1,7 +1,7 @@
-absract class Figure{ // This is abstract class.
+abstract class Figure{ // This is abstract class.
     double dimensionOne;
     double dimensionTwo;
-    
+
     Figure(double dimensionOne, double dimensionTwo){
         this.dimensionOne = dimensionOne;
         this.dimensionTwo = dimensionTwo;
