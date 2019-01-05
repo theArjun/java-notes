@@ -5,6 +5,6 @@ class Triangle extends Figure{
     // Override area for Right Triangle
     double area(){
         System.out.println("Inside area for Triangle : ");
-        return 1/2 * dimensionOne * dimensionTwo;
+        return dimensionOne * dimensionTwo/2;
     }
 }
