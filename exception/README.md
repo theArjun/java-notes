@@ -25,6 +25,18 @@ Under Runtime Exception
 1. Arithmetic Exception
 2. Null Pointer Exception
 
+## Uncaught Exceptions:
 
+    class Exception{
+        public static void main(String[] args){
+            int d = 0;
+            int a = 42 / d; 
+        }
+    }
+
+
+## Array Out of Bound Exception
+
+Here, java runtime system detects the attemps to divide by zero, it constructs a new exception object and then throws this exception. This causes the execution of Exception class to stop because once an exception has been thrown , it must be caught by an exception handler and dealed with immediately.
 
 
