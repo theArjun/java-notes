@@ -15,11 +15,11 @@
     4. ```throws```
     5. ```finally```
 
-    ![Exception Figure](https://howtodoinjava.files.wordpress.com/2013/04/exceptionhierarchy3.png)
+    ![Exception Figure](https://howtodoinjava.files.wordpress.com/2013/04/exceptionhierarchy3.png)  
+    ![Exception Figure One](https://i.stack.imgur.com/v2NAj.png)
 
 > Exception is recoverable.  
 > Error is non-recoverable. Eg: lack of resources ➡ Our of memory.  
-> Other check exception subclasses refers to IO Exception
 
 Under Runtime Exception
 1. Arithmetic Exception
