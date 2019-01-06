@@ -37,6 +37,7 @@ Under Runtime Exception
 
 ## Array Out of Bound Exception
 
-Here, java runtime system detects the attemps to divide by zero, it constructs a new exception object and then throws this exception. This causes the execution of Exception class to stop because once an exception has been thrown , it must be caught by an exception handler and dealed with immediately.
+Here, java runtime system detects the attemps to divide by zero, it constructs a new exception object and then throws this exception. This causes the execution of Exception class to stop because once an exception has been thrown , it must be caught by an exception handler and dealed with immediately.  
+Here we haven't supplied any exception handlers of our own, so the exception is caught by the default handler provided by Java Runtime System.
 
 
