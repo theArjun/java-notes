@@ -5,3 +5,8 @@
 
 1. Throwable (Throwable cause Exception)
 2. Throwable (String message, Throwable cause Exception)
+
+Two methods used are:
+
+1. Throwable getCause()
+2. Throwable initCause (Throwable causeException)
