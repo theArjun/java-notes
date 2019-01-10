@@ -30,6 +30,9 @@ class MyFile{
             if(!fileObjectOne.createNewFile()){
                 System.out.println("Error while creating new file.");
             }
+            if(!fileObjectOne.exists()){
+                System.out.println("Already a file with same name and extension.");
+            }
         }catch(IOException error){
             error.printStackTrace(); // Prints error; it may throw IOException.
         }        
