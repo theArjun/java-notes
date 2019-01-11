@@ -23,7 +23,7 @@ class MyFile{
         File fileObjectOne = null;
         boolean bool = false;
         try{
-            fileObjectOne = new File("C:\\users\\arjun\\Desktop\\gces\\io\\myTextFile.txt");
+            File fileObjectOne = new File("C:\\users\\arjun\\Desktop\\gces\\io\\myTextFile.txt");
             bool = fileObjectOne.createNewFile(); // If created; returns true value to bool.
             System.out.println("File created : "+bool); 
             fileObjectOne.delete(); // Deletes the file.
