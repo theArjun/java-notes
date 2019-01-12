@@ -12,7 +12,7 @@
 
 > Example:
 
-        abstract void sum(int a, int b);
+        abstract void sum(int a, int b); // No body
 
 - These abstract methods are sometimes referred to as sub classes responsibility because they have no implementation specified in the superclass. Thus subclass must override them.
 -  Any class that contains one or more abstract methods myst also be declared abstract.
