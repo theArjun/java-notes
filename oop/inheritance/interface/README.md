@@ -32,3 +32,13 @@ But beginning with JDK 8, it is possible to add a defailt implementation to an i
 - Method should be public in interface.
 - Class member variable should either be PUBLIC or STATIC.
 - The method inside interface can contain the body, if it is DEFAULT.
+
+> Why do we use interface ?
+
+ -   It is used to achieve total abstraction.
+ -   Since java does not support multiple inheritance in case of class, but by using interface it can achieve multiple inheritance .
+ -   It is also used to achieve loose coupling.
+
+>  Interfaces are used to implement abstraction. So the question arises why use interfaces when we have abstract classes?
+
+ -   The reason is, abstract classes may contain non-final variables, whereas variables in interface are final, public and static. 
