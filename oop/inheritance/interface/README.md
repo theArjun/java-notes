@@ -27,3 +27,8 @@ But beginning with JDK 8, it is possible to add a defailt implementation to an i
         class className [extends superClass] [interface interfaceOne, interfaceTwo]{
             //code goes here
         }
+
+- When you implement an interface method, it must be declared as public.
+- Method should be public in interface.
+- Class member variable should either be PUBLIC or STATIC.
+- The method inside interface can contain the body, if it is DEFAULT.
