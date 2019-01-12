@@ -3,8 +3,8 @@
 
 import java.io.File;
 
-// Creating a class named StringTest.
-class StringTest{
+// Creating a class named Display.
+class Display{
     public static void main(String[] args){
         // To prevent any of the exception that may arise, I put the codes under try block.
         try{
