@@ -42,3 +42,11 @@ But beginning with JDK 8, it is possible to add a defailt implementation to an i
 >  Interfaces are used to implement abstraction. So the question arises why use interfaces when we have abstract classes?
 
  -   The reason is, abstract classes may contain non-final variables, whereas variables in interface are final, public and static. 
+
+# Interface can be extended.
+
+If we want to extend the interface or class, following keywords are used.  
+Interface  -> Interface  (extends)  
+Class -> Class (extends)  
+Class -> Interface (implements)  
+Class -> Abstract Class (extends)
