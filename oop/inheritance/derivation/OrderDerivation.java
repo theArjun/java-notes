@@ -6,7 +6,7 @@ class A{
 
 class B extends A{
     B(){
-        System.out.println("Inside B"); // This gets encoked after superclass.
+        System.out.println("Inside B"); // This gets envoked after superclass.
     }
 }
 
