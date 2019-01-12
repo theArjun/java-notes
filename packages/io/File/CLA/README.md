@@ -21,6 +21,7 @@
         javac DisplayWithCLA.java && java Display C:\users 
 
 > Path with -f or -d provided :
+- It displays either files or directories from the given path.
 
         javac DisplayWithCLA.java && java Display C:\Users -f // Displays files from given path.
         javac DisplayWithCLA.java && java Display C:\users -d // Displays directories from given path.
