@@ -1,4 +1,4 @@
-class FibonacciDemo{
+class FactorialDemo{
     public static void main(String[] args){
         Fibonacci numberOne = new Fibonacci();
         numberOne.setNumber(5);

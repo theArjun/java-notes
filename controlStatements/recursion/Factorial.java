@@ -1,4 +1,4 @@
-public class Fibonacci{
+public class Factorial{
 
     private int number;
 
