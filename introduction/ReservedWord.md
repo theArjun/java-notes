@@ -1,6 +1,6 @@
 # Reserved Word
 
-![Reserved Words](https://hungerofjava.files.wordpress.com/2016/10/rw1.png)
+![Reserved Words](https://programmingstack.com/images/types-of-keyword1.jpg)
 
 ## Used Keywords :  
 - Exception Handling (6)
@@ -70,4 +70,10 @@
 10. transient
 11. volatile
 
+
+| Reserved Word                                                                                                                                                                | Keywords                                                                                         |  
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| Java reserved words are the words that are reserved by Java functions or  other uses that cannot be used as identifiers (e.g., variable names,  function names, class names) | Keywords are the reserved words that keep special meaning in Java. (e.g. for, int,  class ,etc.) |
+| They are 53 in number till now.                                                                                                                                              | They are 50 in number.                                                                           | 
+| All reserved words cannot be keywords.                                                                                                                                       | All keywords are reserved words.                                                                 | 
 
