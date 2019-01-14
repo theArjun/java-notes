@@ -54,9 +54,8 @@ Java is a general-purpose computer-programming language that is concurrent, clas
 ⏩ [Abstract Class](https://github.com/theArjun/Java/blob/master/oop/inheritance/AbstractClass/README.md)  
 ⏩ [Interface](https://github.com/theArjun/Java/blob/master/oop/inheritance/interface/README.md)  
 ⏩ [Final with Interface](https://github.com/theArjun/Java/blob/master/oop/inheritance/finalWithInheritance/README.md)    
-⏩ [Implementing Interface](https://github.com/theArjun/Java/tree/master/oop/inheritance/AbstractClass)  
-⏩ [Nested Interface](https://github.com/theArjun/Java/tree/master/oop/inheritance/interface/NestedInterface)  
-⏩ [Interface can be extended](#)  // TBC
+⏩ [Implementing Interface](https://github.com/theArjun/Java/tree/master/oop/inheritance/interface)  
+⏩ [Nested Interface](https://github.com/theArjun/Java/tree/master/oop/inheritance/interface/NestedInterface)
 
 ## Packages
 
