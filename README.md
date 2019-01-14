@@ -96,6 +96,8 @@ Java is a general-purpose computer-programming language that is concurrent, clas
 ### FileReader
 
 ⏩ [Introduction](https://github.com/theArjun/Java/blob/master/packages/io/FileReader/README.md)  
+⏩ [Code Implementation](https://github.com/theArjun/Java/tree/master/packages/io/FileReader)    
+
 
 
 
