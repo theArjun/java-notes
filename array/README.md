@@ -60,9 +60,9 @@ Java provides a data structure, the array, which stores a fixed-size sequential 
 | char[ ]    | [ C                      |
 | long[ ]    | [ J                      |
 
-int[]x = new int[]; // ❌ Size should be mentioned.
-int[]x = new int[0]; ✅
-int[]x = new int[-2]; // ✅ Runtime error; though compiled.
+    int[]x = new int[]; // ❌ Size should be mentioned.
+    int[]x = new int[0]; ✅
+    int[]x = new int[-2]; // ✅ Runtime error; though compiled.
 
     byte b = 20;
     int[] x = new int[b];
