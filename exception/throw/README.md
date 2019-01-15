@@ -1,6 +1,6 @@
 # Throw
 
-- So farm you have only been catching exceptions that are thrown by the Java run-time system.
+- So far, you have only been catching exceptions that are thrown by the Java run-time system.
 - However, it is possible to throw an exception explicitly, using ```throw``` statement.
 
 ## General Form :
