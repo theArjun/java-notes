@@ -1,12 +1,12 @@
-class Double{
-    public static void main(String args[]){
-        double pi,r,a;
-        
-        r=10.8;
-        pi=3.1416;
+class Double {
+    public static void main(String args[]) {
+        double pi, r, a;
 
-        a=pi*r*r;
+        r = 10.8;
+        pi = 3.1416;
 
-        System.out.println("The area of the circle is: "+a);
+        a = pi * r * r;
+
+        System.out.println("The area of the circle is: " + a);
     }
 }
