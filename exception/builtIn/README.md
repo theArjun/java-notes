@@ -2,7 +2,7 @@
 
 ```java.lang```
 
-- Most general of these exceptions are subclasses aof the standara type RuntimeException.
+- Most general of these exceptions are subclasses of the standard type RuntimeException.
 
 1. Checked Exception  
 - That must be included in a method's throw list if that method can generate one of these Exception and does not handle itself.
