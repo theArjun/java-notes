@@ -56,10 +56,9 @@ Java is a general-purpose computer-programming language that is concurrent, clas
 ⏩ [Method Overriding](https://github.com/theArjun/Java/tree/master/oop/inheritance/methodOverRiding)  
 ⏩ [Dynamic Method Dispatch](https://github.com/theArjun/Java/tree/master/oop/inheritance/methodOverRiding/DynamicMethodDispatch)  
 > ⤴ How Java implements run-time polymorphism ?
-
+⏩ [Final with Inheritance](https://github.com/theArjun/Java/blob/master/oop/inheritance/finalWithInheritance/README.md) 
 ⏩ [Abstract Class](https://github.com/theArjun/Java/blob/master/oop/inheritance/AbstractClass/README.md)  
-⏩ [Interface](https://github.com/theArjun/Java/blob/master/oop/inheritance/interface/README.md)  
-⏩ [Final with Interface](https://github.com/theArjun/Java/blob/master/oop/inheritance/finalWithInheritance/README.md)    
+⏩ [Interface](https://github.com/theArjun/Java/blob/master/oop/inheritance/interface/README.md)     
 ⏩ [Implementing Interface](https://github.com/theArjun/Java/tree/master/oop/inheritance/interface)  
 ⏩ [Nested Interface](https://github.com/theArjun/Java/tree/master/oop/inheritance/interface/NestedInterface)
 
