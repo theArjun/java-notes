@@ -1,7 +1,7 @@
 # Packages
 - They are containers for classes.
 - Package allows you to create a class named ABC, which you can store in your own package without concern that it will collide with some other class named ABC stored elsewhere.
-- Java provides a mechanism for partitioning the class name space more manageable chunks. This mechanism is referred as paclkage.
+- Java provides a mechanism for partitioning the class name space more manageable chunks. This mechanism is referred as package.
 - Package is both a naming and a visibility ⏩ "default" control mechanism.
 
 ## Defining a Package
@@ -68,13 +68,10 @@ Syntax :
 - Defined by the developers as poer their applicaion requirements.
 
  <b>
-
         Package abc;
         Package bac;
         Package cba;
         class Test{
-
-
 
         }
 </b>
@@ -88,7 +85,7 @@ i. exampleOne : ```java.lang```
 
 ii. exampleTwo : ```java.io```
 - To perform input and output operation.
-- Input Stream, ByteArrayInputStream, FileInputStream, OutputStream, Reader, Writer etc.
+- InputStream, ByteArrayInputStream, FileInputStream, OutputStream, Reader, Writer etc.
 
 iii. exampleThree : ```java.util```
 - Representing all data structures.
