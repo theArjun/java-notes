@@ -2,8 +2,7 @@
 
 > 16th December 2019, **Arjun Adhikari**
 	
-> ✅ in questions denotes the no of question appearence. More the tick in question, possess high importance from examination point of view.  
-> TBC refers to To be completed.  
+> ✅ in questions denotes the no of question appearence. More the tick in question, possess high importance from examination point of view.
 
 ## Chapter 1 
 1.	Define Java.

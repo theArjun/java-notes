@@ -1,7 +1,6 @@
 # Exam Questions
 
 > ✅ in questions denotes the no of question appearence. More the tick in question, possess high importance from examination point of view.  
-> TBC refers to To be completed.
 
 ## Chapter 1
 
