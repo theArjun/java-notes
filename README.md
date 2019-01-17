@@ -7,9 +7,7 @@ Java is a general-purpose computer-programming language that is concurrent, clas
 
 ## Question for Exams   
 ![Exam Icon](https://i.ibb.co/qkPLZJs/1208185.png)  
-> Till 16th January 2019, **Arjun Adhikari**
-
-> TBC refers to be completed.
+> Till 16th January 2019, **Arjun Adhikari**  
 
 ⏩ [Questions](https://github.com/theArjun/Java/blob/master/examQuestions/README.md)  
 ⏩ [Programming Questions](https://github.com/theArjun/Java/blob/master/examQuestions/ProgrammingQuestions.md)
