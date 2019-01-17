@@ -1,8 +1,8 @@
 import java.io.*;
 
-class GCES{
-    public static void main(String[] args){
-        try{
+class GCES {
+    public static void main(String[] args) {
+        try {
             BufferedWriter bw = new BufferedWriter(new FileWriter("gces.txt"));
             bw.write("gces");
             bw.newLine();
@@ -11,7 +11,7 @@ class GCES{
             bw.write("Happy New Year");
             bw.flush();
             bw.close();
-        }catch(IOException error){
+        } catch (IOException error) {
             error.printStackTrace();
         }
 
