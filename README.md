@@ -38,7 +38,7 @@ Java is a general-purpose computer-programming language that is concurrent, clas
 
 
 ## Arrays 
-![Arrays Icon](https://i.ibb.co/ZNXgrLs/ic-browser-editor-min.png)
+![Arrays Icon](https://i.ibb.co/sqzVsj1/vector-507-14-128.png)
 
 ⏩ [About Array](https://github.com/theArjun/Java/tree/master/array/README.md)  
 ⏩ [Array as Matrix](https://github.com/theArjun/Java/tree/master/array/matrixRepresentation)  
