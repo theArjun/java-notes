@@ -7,8 +7,8 @@ Java is a general-purpose computer-programming language that is concurrent, clas
 
 > TBC refers to be completed.
 
-⏩ [Questions](https://github.com/theArjun/Java/blob/master/examQuestions/UnitTestOne.md)  
-⏩ [Programming Questions](https://github.com/theArjun/Java/blob/master/examQuestions/README.md)
+⏩ [Questions](https://github.com/theArjun/Java/blob/master/examQuestions/README.md)  
+⏩ [Programming Questions](https://github.com/theArjun/Java/blob/master/examQuestions/ProgrammingQuestions.md)
 
 
 ## Basics 
