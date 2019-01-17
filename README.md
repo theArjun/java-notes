@@ -1,8 +1,12 @@
-# Java Programs ![Java Icon](https://i.ibb.co/RCn3qQv/1387539.png)
+# Java Programs  
+![Java Icon](https://i.ibb.co/RCn3qQv/1387539.png)
 
 Java is a general-purpose computer-programming language that is concurrent, class-based, object-oriented, and specifically designed to have as few implementation dependencies as possible.
 
+> 
+
 ## Question for Exams   
+![Exam Icon](https://i.ibb.co/qkPLZJs/1208185.png)  
 > Till 16th January 2019, **Arjun Adhikari**
 
 > TBC refers to be completed.
@@ -12,6 +16,7 @@ Java is a general-purpose computer-programming language that is concurrent, clas
 
 
 ## Basics 
+![Basics Icon](https://i.ibb.co/zm5fzz5/basic-spoken-english-250x250.png)
 
 ⏩ [Introduction, History](https://github.com/theArjun/Java/blob/master/introduction/README.md)   
 ⏩ [Benefits of Java & Platform Independency](https://github.com/theArjun/Java/blob/master/introduction/README.md#benefits-of-java-and-its-features)    
@@ -22,6 +27,7 @@ Java is a general-purpose computer-programming language that is concurrent, clas
 
 
 ## Control Flow  
+![Control Flow Icon](https://i.ibb.co/ZNXgrLs/ic-browser-editor-min.png)
 
 ⏩ [If Else](https://github.com/theArjun/Java/tree/master/controlStatements/testCases/ifElse)  
 ⏩ [While](https://github.com/theArjun/Java/tree/master/controlStatements/testCases/while)  
@@ -32,6 +38,7 @@ Java is a general-purpose computer-programming language that is concurrent, clas
 
 
 ## Arrays 
+![Arrays Icon](https://i.ibb.co/ZNXgrLs/ic-browser-editor-min.png)
 
 ⏩ [About Array](https://github.com/theArjun/Java/tree/master/array/README.md)  
 ⏩ [Array as Matrix](https://github.com/theArjun/Java/tree/master/array/matrixRepresentation)  
@@ -40,6 +47,7 @@ Java is a general-purpose computer-programming language that is concurrent, clas
 ⏩ [Array Representation 02](https://github.com/theArjun/Java/tree/master/array/arrayRepresentation02)  
 
 ## Classes and Objects
+![Classes and Objects Icon](https://i.ibb.co/RTKpGfS/class-128.png)  
 
 ⏩ [Basics](https://github.com/theArjun/Java/tree/master/oop/classesObjects/simpleClass)   
 ⏩ [More on Classes and Objects](https://github.com/theArjun/Java/tree/master/oop/classesObjects/classesObjectsImplementation)  
@@ -50,6 +58,7 @@ Java is a general-purpose computer-programming language that is concurrent, clas
 ⏩ [Static](https://github.com/theArjun/Java/tree/master/oop/classesObjects/static)  
 
 ## Inheritance
+![Inheritance Icon](https://i.ibb.co/Ksg59ML/1087549.png)
 
 ⏩ [Introduction](https://github.com/theArjun/Java/blob/master/oop/inheritance/README.md)  
 ⏩ [Super Class & its Access](https://github.com/theArjun/Java/blob/master/oop/inheritance/super/README.md)   
@@ -67,11 +76,13 @@ Java is a general-purpose computer-programming language that is concurrent, clas
 ⏩ [Nested Interface](https://github.com/theArjun/Java/tree/master/oop/inheritance/interface/NestedInterface)
 
 ## Packages
+![Packages Icon](https://i.ibb.co/89bYfqG/package.png)
 
 ⏩ [Introduction & Implementation](https://github.com/theArjun/Java/tree/master/oop/usingPackage)  
 ⏩ [Setting Classpath](https://github.com/theArjun/Java/blob/master/oop/usingPackage/tuts/README.md)  
 
-## Exception
+## Exception   
+![Exception Icon](https://i.ibb.co/dP6qr0Z/attention-2-128.png)
 
 ⏩ [Introduction](https://github.com/theArjun/Java/blob/master/exception/README.md)   
 ⏩ [Multiple Catch](https://github.com/theArjun/Java/blob/master/exception/MultipleCatch.java)  
@@ -84,7 +95,8 @@ Java is a general-purpose computer-programming language that is concurrent, clas
 
 ## Input/Output
 
-### File
+### File   
+![File Icon](https://i.ibb.co/yn6VRxw/simple-file-manager-106546.png)
 
 ⏩ [Introduction](https://github.com/theArjun/Java/blob/master/packages/io/File/README.md)
 
@@ -120,11 +132,3 @@ Java is a general-purpose computer-programming language that is concurrent, clas
 
 ⏩ [Introduction](https://github.com/theArjun/Java/blob/master/packages/io/PrintWriter/README.md)  
 ⏩ [Code Implementation](https://github.com/theArjun/Java/tree/master/packages/io/PrintWriter)  
-
-
-
-
-
-
-
-
