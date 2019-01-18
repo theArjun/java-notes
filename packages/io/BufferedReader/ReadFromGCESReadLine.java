@@ -8,7 +8,8 @@ class GCES {
             BufferedReader br = new BufferedReader(new FileReader("gces.txt"));
             String line = br.readLine(); 
             while (line != null) { // Denotes no character
-                System.out.print(line+"\n");
+                bw.write(line);
+                bw.newLine();
                 line = br.readLine(); // Iteratively reads the line one by one until loop terminates.
             }
             br.close();
@@ -17,3 +18,5 @@ class GCES {
         }
     }
 }
+
+// System.out.print(line+"\n"); // For only printing lines in console
