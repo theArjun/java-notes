@@ -130,4 +130,10 @@ Java is a general-purpose computer-programming language that is concurrent, clas
 ### PrintWriter
 
 ⏩ [Introduction](https://github.com/theArjun/Java/blob/master/packages/io/PrintWriter/README.md)  
-⏩ [Code Implementation](https://github.com/theArjun/Java/tree/master/packages/io/PrintWriter)  
+⏩ [Code Implementation](https://github.com/theArjun/Java/tree/master/packages/io/PrintWriter) 
+
+## Applet  
+
+![Applet Logo](http://files.softicons.com/download/system-icons/oxygen-icons-by-oxygen/png/128x128/mimetypes/application_x_java_applet.png)  
+
+⏩ [Introduction](https://github.com/theArjun/Java/blob/master/packages/Applet/README.md) 
