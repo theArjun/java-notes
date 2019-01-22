@@ -45,3 +45,56 @@ Whenever an applet is terminated, the following sequence of methods calls takes 
 
 5. ```destroy()```
 - The ```destroy( )``` method is called when the environment determines that your applet needs to be removed completely from memory. At this point, you should free up any resources the applet may be using. The ```stop( )``` method is always called before ```destroy( )```.
+
+## The HTML APPLET Tag
+
+Syntax :
+
+        <Applet
+        [CODEBASE = codebaseURL]
+        CODE = appletFile
+        [ALT = alternateText]
+        [NAME = appletInstanceName]
+        Width = pixels
+        height = pixels
+        [ALIGN = alignment]
+        [VSPACE = pixels]
+        [HSPACE = pixels]
+        >
+
+        [< PARAM NAME = attributeName VALUE = AttributeValue>]  >> Important for Exam 💯
+        [HTML Displayed in the absence of Java]
+
+        </APPLET>
+
+Note : [ ] ⏩ Optional
+
+### **CODEBASE**
+- It is an optional attribute that specifies the base URL of the applet code, which is the directory that will be searched for the applets executable class file.
+- The HTML Document URL Directory is used as the CODEBASE if this attribute is not specified.
+
+### **CODE**
+- Code is the required attribute that gives the name of file containing compiled .class file. This file is related to the code base UTL of the applet.
+
+
+### **ALT**
+- The ALT tag is an alternate tag used to specify a short text message that should be displayed if the browser recognized the applet tag but can't currently run JAVA applet.
+
+### **NAME**
+- NAME is an optional attribute used to specify a name for the applet instance. NAME attribute is used in order to communicate between applets on the same page.
+
+### **WIDTH and HEIGHT**
+- WIDTH and HEIGHT are the required attributes that gives the size of the applet display area.
+  
+### **ALIGN**
+- ALIGN is an optional attribute that specifies the alignment of the applet. The possible values are LEFT, RIGHT, TOP, BOTTOM, MIDDLE, BASELINE, TEXTTOP, ABSMIDDLE (Absolute Middle) and ABSBOTTOM (Absolute Bottom).
+
+### **VSPACE and HSPACE**
+- These attributes are optinal. 
+- VSPACE specifies the space in pixel and below the applet.
+- HSPACE specifies the space in pixel on each sides of the applet.
+
+### **PARAM NAME and VALUE**
+- PARAMNAME is a tag used to specify applet specific arguments.
+- Applets access their attributes with the ```getParameter( )``` 
+
