@@ -137,4 +137,5 @@ Java is a general-purpose computer-programming language that is concurrent, clas
 ![Applet Logo](http://files.softicons.com/download/system-icons/oxygen-icons-by-oxygen/png/128x128/mimetypes/application_x_java_applet.png)  
 
 ⏩ [Introduction](https://github.com/theArjun/Java/blob/master/packages/Applet/README.md)   
-⏩ [HTML Applet Tag](https://github.com/theArjun/Java/blob/master/packages/Applet/README.md#the-html-applet-tag)
+⏩ [Code Implementation](https://github.com/theArjun/Java/blob/master/packages/Applet)  
+⏩ [Tutorials on Applet](https://github.com/theArjun/Java/blob/f7cee126a17a1e8a59a414d1b097d3de766e3c32/packages/Applet/TUTORIAL.md)  
