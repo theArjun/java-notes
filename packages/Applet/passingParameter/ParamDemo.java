@@ -1,13 +1,13 @@
-import java.applet.Applet;
-import java.awt.Graphics;
+import java.applet.*;
+import java.awt.*;
 
 // Following HTML chunk will pass parameter to Applet. This is comment for Java Compiler but not for appletviewer, so altering the attribute of parameter never compell to recompile again.
 
 /*/
-    <applet code = "ParamDemo.class" height = "300" width = "300">
+    <applet code = "ParamDemo" height = "500" width = "500">
         <param name = "fontName" value = "Comic Sans MS">
         <param name = "fontSize" value = "40">
-        <param name = "leadingfontName" value = "14.80">
+        <param name = "leading" value = "14.80">
         <param name = "active" value = "true">
     </applet>
 */
@@ -15,35 +15,43 @@ public class ParamDemo extends Applet {
     String fontName;
     String param;
     int fontSize;
-    double leading;
+    float leading;
     boolean active;
 
     public void init() {
 
-        // Param is not used here because to get the String value and again to pass to String, no temp variable is needed.
-        fontName = this.getParameter("fontName");
+        // Param is not used here because to get the String value and again to pass to String, no temp variable (param) is needed.
+        fontName = getParameter("fontName");
         if (fontName == null) {
-            fontName = "Times New Roman";
+            fontName = "Not Specified";
         }
 
-        //Param is used as temporary String variable which retrieves the parameter passed. 
+        // Param is used as temporary String variable which retrieves the parameter passed.
 
-        param = this.getParameter("fontSize");
-        fontSize = Integer.parseInt(param); // Converts the number in String to Integer data type.
-        if (param == null) {
-            fontSize = 20;
+        param = getParameter("fontSize");
+        try {
+            if (param != null) {
+                fontSize = Integer.parseInt(param); // Converts the number in String to Integer data type.
+            } else {
+                fontSize = 0;
+            }
+        } catch (NumberFormatException exc) {
+            fontSize = 0;
         }
 
-        param = this.getParameter("leading");
-        leading = Float.valueOf(param).floatValue(); // Converts the number in String to Float data type.
-        if (param == null) {
-            leading = 20.01;
+        param = getParameter("leading");
+        try {
+            if (param != null) {
+                leading = Float.valueOf(param).floatValue(); // Converts the number in String to Float data type.
+            } else {
+                leading = 0f;
+            }
+        } catch (NumberFormatException exc) {
+            leading = 0f;
         }
-
-        param = this.getParameter("active");
-        active = Boolean.valueOf("active").booleanValue(); // Converts the boolean value in String to Boolean data type.
-        if (param == null) {
-            active = false;
+        param = getParameter("active");
+        if (param != null) {
+            active = Boolean.valueOf(param).booleanValue(); // Converts the boolean value in String to Boolean data type.
         }
     }
 
