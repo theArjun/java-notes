@@ -140,5 +140,5 @@ Java is a general-purpose computer-programming language that is concurrent, clas
 ⏩ [Code Implementation](https://gist.github.com/theArjun/ffdd35272a711b707a95970e56c24f60)  
 ⏩ [Tutorials on Applet](https://github.com/theArjun/Java/blob/f7cee126a17a1e8a59a414d1b097d3de766e3c32/packages/Applet/TUTORIAL.md)   
 ⏩ [Life Cycle of Applet](https://github.com/theArjun/Java/blob/ff0c25dcc1b92ef54b6af605e3081b1af6486c48/packages/Applet/lifeCycle/LifeCycle.java)   
-⏩ [Passing Parameter to Applet](https://github.com/theArjun/Java/blob/ff0c25dcc1b92ef54b6af605e3081b1af6486c48/packages/Applet/passingParameter/ParamDemo.java)
+⏩ [Passing Parameter to Applet](https://github.com/theArjun/Java/blob/ff0c25dcc1b92ef54b6af605e3081b1af6486c48/packages/Applet/passingParameter/ParamDemo.java)  
 ⏩ [Setting Custom Font Face and Font Size](https://github.com/theArjun/Java/blob/ff0c25dcc1b92ef54b6af605e3081b1af6486c48/packages/Applet/passingParameter/customFontAndSize/Introduction.java)
