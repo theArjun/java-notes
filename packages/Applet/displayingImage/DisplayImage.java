@@ -13,6 +13,6 @@ public class DisplayImage extends Applet {
 	}
 
 	public void paint(Graphics g){
-		g.drawImage(picture,30,30,this
+		g.drawImage(picture,30,30,this);
 	}
 }
