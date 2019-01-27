@@ -52,11 +52,11 @@ public class Introduction extends Applet{
 			}
 			else
 			{
-				fontSize = 10;
+				fontSize = 10; // parameter pass garyo tara integer parse vayena vane
 			}
 		}catch(NumberFormatException exc)
 		{
-			fontSize = 15;
+			fontSize = 15; // Parameter nai pass garena vane chahi yo run huncha
 		}
 	}
 
