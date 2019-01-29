@@ -148,4 +148,9 @@ Java is a general-purpose computer-programming language that is concurrent, clas
 ## Events, Events Handling & AWT/Swing  
 ![IllustrativePhoto](https://i.ibb.co/HzYJTBD/scroll-interface-app-gui-software-buttons-128.png)
 
-⏩ [Introduction](https://github.com/theArjun/Java/blob/master/eventsAWTSwing/README.md)
+⏩ [Introduction](https://github.com/theArjun/Java/blob/master/eventsAWTSwing/README.md)  
+⏩ [AWT Controls](https://github.com/theArjun/Java/blob/master/eventsAWTSwing/CONTROLS.md)    
+
+### Label
+⏩ [Introduction](https://github.com/theArjun/Java/blob/master/eventsAWTSwing/label/README.md)   
+⏩ [Code Implementation](https://github.com/theArjun/Java/blob/master/eventsAWTSwing/label/LabelDemo.java)   
