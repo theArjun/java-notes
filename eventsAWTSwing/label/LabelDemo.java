@@ -1,4 +1,4 @@
-// Label provides meaning to the constructor.
+/* Label provides meaning to the component. */
 
 import java.applet.*;
 import java.awt.*;
