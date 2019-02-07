@@ -145,12 +145,30 @@ Java is a general-purpose computer-programming language that is concurrent, clas
 ⏩ [Nepal's Flag in Applet using AWT Graphics](https://github.com/theArjun/Java/blob/master/packages/GUI/nepaliFlag/Flag.java)    
 ⏩ [Image in Applet](https://github.com/theArjun/Java/tree/master/packages/Applet/displayingImage)    
 
-## Events, Events Handling & AWT/Swing  
+## AWT 
 ![IllustrativePhoto](https://i.ibb.co/HzYJTBD/scroll-interface-app-gui-software-buttons-128.png)
 
 ⏩ [Introduction](https://github.com/theArjun/Java/blob/master/eventsAWTSwing/README.md)  
 ⏩ [AWT Controls](https://github.com/theArjun/Java/blob/master/eventsAWTSwing/CONTROLS.md)    
 
-### Label
+## Label
 ⏩ [Introduction](https://github.com/theArjun/Java/blob/master/eventsAWTSwing/label/README.md)   
 ⏩ [Code Implementation](https://github.com/theArjun/Java/blob/master/eventsAWTSwing/label/LabelDemo.java)   
+
+## Button
+⏩ [Introduction](https://github.com/theArjun/Java/blob/master/AWT/button/README.md)   
+⏩ [Code Implementation](https://github.com/theArjun/Java/blob/master/AWT/button/ILoveNepal.java) 
+## TextField
+⏩ [Introduction](https://github.com/theArjun/Java/blob/master/AWT/textField/README.md) 
+## TextArea
+⏩ [Introduction](https://github.com/theArjun/Java/tree/master/AWT/textArea/README.md) 
+## CheckBox
+⏩ [Introduction](https://github.com/theArjun/Java/blob/master/AWT/CheckBox/README.md) 
+## CheckBoxGroup
+⏩ [Introduction](https://github.com/theArjun/Java/tree/master/AWT/checkBoxGroup/README.md) 
+## Choice
+⏩ [Introduction](https://github.com/theArjun/Java/tree/master/AWT/choiceControl/README.md) 
+## List
+⏩ [Introduction](https://github.com/theArjun/Java/tree/master/AWT/list/README.md) 
+## ScrollBar
+⏩ [Introduction](https://github.com/theArjun/Java/tree/master/AWT/scrollBar/README.md) 
