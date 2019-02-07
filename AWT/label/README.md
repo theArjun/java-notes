@@ -11,3 +11,10 @@ i. ```void setText(String str);```
 ii. ```String getText();```  
 iii. ```void setAlignment(int how);```  
 iv. ```int getAlignment();``` 
+
+### Example 
+
+        Label name = new Label("Arjun");
+        name.setText("Another Arjun");
+        String myNameWas = name.getText();
+
