@@ -38,4 +38,18 @@ For eg:
 2. ```KEY_RELEASED``` - generated when key is released.
 3. ```KEY_TYPED``` - generated when key is generated.
 
-    
+### Constants
+
+```VK_ALT```,
+```VK_DOWN```,
+```VK_LEFT```,
+```VK_RIGHT```,
+```VK_ENTER```,
+```VK_ESCAPE```,
+```VK_CONTROL```,
+```VK_SHIFT```,
+
+### Methods
+
+- ```char getKeyChar ()```
+- ```int getKeyChar ()```

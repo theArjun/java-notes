@@ -26,5 +26,20 @@
     Here Type is the name of the event and el is the reference to the event listener.
 - When an event occurs, all registered listeners are notified and recieve a copy of event object. This is known as **multicasting the event**.
 - Some sources may allow only one listener to register. When such an event occurs, the registered listener is notified. This is known as **unicasting the event**.
-- A source must also provide method that allows a listener to unregister an interest in a specific type of event. The general form:
+- A source must also provide method that allows a listener to unregister an interest in a specific type of event. The general form:  
   ```public void removeTypeListener(TypeListener el)```
+> What is Event Handling ?
+- It is the mechanism that controls the event and decides what should happen if an event occurs.
+- Java Uses **Event Delegation Model**.
+
+> Event Delegation Model
+
+![Figure For Event Delegation Model](http://www.lessons2all.com/java%20images/20.jpg)
+
+- **Concept**:
+
+   - A source generates an event and sends it to one or more listeners.
+   -  The listener simply waits until it receives an event. Once an event is recieved, the listener processes the event and then returns.
+
+- **Advantages**
+    - The advantages of this design is that the application logic that processes events is clearly separated from the UI logic that generates those events.
