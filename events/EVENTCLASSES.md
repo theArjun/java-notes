@@ -51,5 +51,49 @@ For eg:
 
 ### Methods
 
-- ```char getKeyChar ()```
-- ```int getKeyChar ()```
+- ```char getKeyChar ()```;
+- ```int getKeyChar ()```;
+
+## Mouse Event
+
+- There are eight types of mouse events:
+- Eight integer constants are defined to determine types:  
+
+| MOUSE EVENT | Generate |  
+------------|-------------  
+| ```MOUSE_CLICKED``` | When user clicked the mouse |
+| ```MOUSE_DRESSED``` | The user dragged the mouse |
+| ```MOUSE_ENTERED``` | The mouse entered a component |
+| ```MOUSE_EXITED``` | The mouse exited from a component |
+| ```MOUSE_MOVED``` | The mouse moved |
+| ```MOUSE_PRESSED``` | The mouse was pressed |
+| ```MOUSE_RELEASED``` | The mouse was released |
+| ```MOUSE_WHEEL``` | The mouse wheel was moved. |
+
+### Methods:
+
+- ```int getX()```
+- ```int getY()```
+- ```Point getPoint()``` -> gives object that contain X, Y co-ordinates
+- ```int getClickCount()```
+- ```boolean isPopupTrigger()``` -> tests if this events causes a pop-up menu to appear on this platform.
+- ```int getButton()``` -> returns a values that represents the button that caused the event.
+
+## Summary
+
+| Event Class | Description |  
+------------|-------------  
+| 1. Action Event | Generated whe a button is pressed, a list item s double-clicked or menu item is selected. |
+| 2. Key Event | Generated when input is received from the keyboard |
+| 3. Mouse Event | Generated when the mouse is dragged, moved, clicked, pressed, or released, enter or exist component. |
+| 4. Adjustment Event | Generated when a scroll bar is manipulated. |
+| 5. Component Event | Generated when a component is hidden, move, resized or becomes visible. |
+| 6. Container Event | Generated when a component is added to or remoevd from a component. |
+| 7. Focus Event | Generated when a component is gains or loses keyboard focus. |
+| 8. Input Event | Abstract superclass for all component input event classes. |
+| 9. Item Event | Generated when a checkbox or list item is clicked: also occurs when a choice selection is made or a checkable menu item is selected or deselected. |
+| 10. MouseWheelEvent | Generated when the mouse wheel is moved. |
+| 11. TextEvent | Generated when the value of a text area or text field is changed. |
+| 11. WindowEvent | Generated when a window is activated, closed, deactivated, opened or quitted. |
+
+
