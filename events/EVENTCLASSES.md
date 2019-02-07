@@ -1,4 +1,7 @@
 # Event Classes
+
+![Event Classes](https://i.ibb.co/4jK8m8c/event-Classes.jpg)
+
 ## Action Event Class
 
 - An Action Event is generated when:
