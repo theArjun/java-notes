@@ -151,27 +151,45 @@ Java is a general-purpose computer-programming language that is concurrent, clas
 ⏩ [Introduction](https://github.com/theArjun/Java/blob/master/eventsAWTSwing/README.md)  
 ⏩ [AWT Controls](https://github.com/theArjun/Java/blob/master/eventsAWTSwing/CONTROLS.md)    
 
-## Label
+### Label
 ⏩ [Introduction](https://github.com/theArjun/Java/blob/master/eventsAWTSwing/label/README.md)   
-⏩ [Code Implementation](https://github.com/theArjun/Java/blob/master/eventsAWTSwing/label/LabelDemo.java)   
-
-## Button
+⏩ [Code Implementation](https://github.com/theArjun/Java/blob/master/eventsAWTSwing/label/LabelDemo.java)     
+### Button
 ⏩ [Introduction](https://github.com/theArjun/Java/blob/master/AWT/button/README.md)   
 ⏩ [Code Implementation](https://github.com/theArjun/Java/blob/master/AWT/button/ILoveNepal.java) 
-## TextField
+### TextField
 ⏩ [Introduction](https://github.com/theArjun/Java/blob/master/AWT/textField/README.md) 
-## TextArea
+### TextArea
 ⏩ [Introduction](https://github.com/theArjun/Java/tree/master/AWT/textArea/README.md) 
-## CheckBox
+### CheckBox
 ⏩ [Introduction](https://github.com/theArjun/Java/blob/master/AWT/CheckBox/README.md) 
-## CheckBoxGroup
+### CheckBoxGroup
 ⏩ [Introduction](https://github.com/theArjun/Java/tree/master/AWT/checkBoxGroup/README.md) 
-## Choice
+### Choice
 ⏩ [Introduction](https://github.com/theArjun/Java/tree/master/AWT/choiceControl/README.md) 
-## List
+### List
 ⏩ [Introduction](https://github.com/theArjun/Java/tree/master/AWT/list/README.md) 
-## ScrollBar
+### ScrollBar
 ⏩ [Introduction](https://github.com/theArjun/Java/tree/master/AWT/scrollBar/README.md) 
+
+## LayoutManager
+
+### FlowLayout
+⏩ [Introduction](https://github.com/theArjun/Java/blob/master/AWT/layout/flowLayout/README.md)
+### BorderLayout
+⏩ [Introduction](https://github.com/theArjun/Java/blob/master/AWT/layout/borderLayout/README.md)  
+⏩ [Code Implementation](https://github.com/theArjun/Java/blob/master/AWT/layout/borderLayout/BorderDemo.java)
+### GridLayout
+⏩ [Introdution](https://github.com/theArjun/Java/blob/master/AWT/layout/GridLayout/README.md)  
+⏩ [Code Implementaion](https://github.com/theArjun/Java/blob/master/AWT/layout/GridLayout/GridLayoutDemo.java)
+### CardLayout
+⏩ [Introduction](https://github.com/theArjun/Java/blob/master/AWT/layout/cardLayout/README.md)  
+⏩ [Introduction](https://github.com/theArjun/Java/blob/master/AWT/layout/cardLayout/CardLayoutDemo.java) // Empty
+### GridBagLayout
+⏩ [Introduction](https://github.com/theArjun/Java/blob/master/AWT/layout/GridBagLayout/README.md)  
+⏩ [Code Implementation](https://github.com/theArjun/Java/blob/master/AWT/layout/GridBagLayout/GridBagConstraintsDemo.java)
+
+
 
 # Event & Events Handling
 ![Event Photo](https://i.ibb.co/RCG3LKr/third-icon-min.png)
