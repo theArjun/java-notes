@@ -43,3 +43,11 @@
 
 - **Advantages**
     - The advantages of this design is that the application logic that processes events is clearly separated from the UI logic that generates those events.
+
+
+
+### Using the Delegation Event Model
+
+**Steps**
+1. Implement the appropriate interface in the listener so that it can receive the type of event desired.
+2. Implement code to register and unregister (if necessary) the listerner as a recipient for the event notifications. 
