@@ -148,12 +148,12 @@ Java is a general-purpose computer-programming language that is concurrent, clas
 ## AWT 
 ![IllustrativePhoto](https://i.ibb.co/HzYJTBD/scroll-interface-app-gui-software-buttons-128.png)
 
-⏩ [Introduction](https://github.com/theArjun/Java/blob/master/eventsAWTSwing/README.md)  
-⏩ [AWT Controls](https://github.com/theArjun/Java/blob/master/eventsAWTSwing/CONTROLS.md)    
+⏩ [Introduction](https://github.com/theArjun/Java/blob/master/AWT/README.md)  
+⏩ [AWT Controls](https://github.com/theArjun/Java/blob/master/AWT/CONTROLS.md)    
 
 ### Label
-⏩ [Introduction](https://github.com/theArjun/Java/blob/master/eventsAWTSwing/label/README.md)   
-⏩ [Code Implementation](https://github.com/theArjun/Java/blob/master/eventsAWTSwing/label/LabelDemo.java)     
+⏩ [Introduction](https://github.com/theArjun/Java/blob/master/AWT/label/README.md)   
+⏩ [Code Implementation](https://github.com/theArjun/Java/blob/master/AWT/label/LabelDemo.java)     
 ### Button
 ⏩ [Introduction](https://github.com/theArjun/Java/blob/master/AWT/button/README.md)   
 ⏩ [Code Implementation](https://github.com/theArjun/Java/blob/master/AWT/button/ILoveNepal.java) 
@@ -195,7 +195,7 @@ Java is a general-purpose computer-programming language that is concurrent, clas
 ![Event Photo](https://i.ibb.co/RCG3LKr/third-icon-min.png)
 
 ⏩ [Events, Event Listener, Event Source, Event Handling & Event Delegation Model](https://github.com/theArjun/Java/blob/master/events/README.md)   
-⏩ [Events Classes](https://github.com/theArjun/Java/blob/master/events/EVENTCLASSES.md)
+⏩ [Events Classes](https://github.com/theArjun/Java/blob/master/events/EVENTCLASSES.md)  
 ⏩ [Event Listeners](https://github.com/theArjun/Java/blob/master/events/EVENTLISTENERS.md)
 
 
