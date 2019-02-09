@@ -1,6 +1,9 @@
 import java.awt.*;
 
 public class TextAreaDemo extends Frame {
+    static int START_INDEX = 0;
+    static int END_INDEX = 23;
+
     TextArea hobbies, trophies, description;
     TextAreaDemo(String title) {
         super(title);
@@ -21,6 +24,12 @@ public class TextAreaDemo extends Frame {
         System.out.println("Is Trophies Editable : "+trophies.isEditable());
         trophies.setEditable(false);
         System.out.println("Is Trophies Editable : "+trophies.isEditable());
+
+        hobbies.append("! Leave it if you have none.");
+        description.insert("! Leave it if you have none.",START_INDEX);
+
+        hobbies.replaceRange("Just Got Replaced !", START_INDEX, END_INDEX);
+        
     }
 
     public static void main(String[] args) {
