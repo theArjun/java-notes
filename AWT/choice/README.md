@@ -1,4 +1,4 @@
-# Choice Control: 
+# Choice
 > Same as Select in HTML
  - The ```Choice``` class is used to create a pop-up list of items from which user may choose.
  - **Only one item can be chosen**.
