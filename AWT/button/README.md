@@ -3,14 +3,14 @@
 
  ## Constructors
    1. ```public Button()```
-   2. ```public Button(String btnlable) thorws headless Exception;```
+   2. ```public Button(String buttonLabel) throws headless Exception;```
  
  ## Public Methods
   1. ```public String getLabel();```
-  -  Get the label of this instance
+  -  Get the label of this button instance.
 
-  2. ```public void serLabel(String btnlabel);```
-  - Set the label of this button instance
+  2. ```public void setLabel(String btnlabel);```
+  - Set the label of this button instance.
 
   3. ```public void setEnable(boolean enable);``` 
   - Enable or disable this Button. Disabled Button cannot be clicked.
