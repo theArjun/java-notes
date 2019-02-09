@@ -1,0 +1,1 @@
+ find . -name '*.class' -delete
