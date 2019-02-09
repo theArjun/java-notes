@@ -1,42 +1,22 @@
 import java.awt.*;
+import java.applet.*;
 
-public class LabelDemoOne extends Frame {
-    LabelDemoOne(String title) {
-        super(title);
-        Label name = new Label();
-        Label address = new Label();
-        Label phoneNumber = new Label();
-        Label college = new Label();
+/* <applet code = "LabelDemoOne" height = "300" width = "300"></applet> */
+
+public class LabelDemoOne extends Applet 
+{
+    
+    public void init()
+    {
+        Label name = new Label("Name : Arjun", Label.LEFT);
+        Label address = new Label("Address : LA, California, United States",Label.CENTER);
+        Label phoneNumber = new Label("Phone Number : +123456436",Label.CENTER);
+        Label college = new Label("College : MIT",Label.RIGHT);
 
         add(name);
         add(address);
         add(phoneNumber);
         add(college);
 
-        name.setText("Arjun Adhikari");
-        address.setText("LA, California, United States");
-        phoneNumber.setText("+12345647753");
-        college.setText("MIT");
-
-        name.setAlignment(Label.LEFT);
-        address.setAlignment(Label.CENTER);
-        phoneNumber.setAlignment(Label.CENTER);
-        college.setAlignment(Label.CENTER);
-
-        System.out.println("Name : "+name.getText());
-        System.out.println("Address : "+address.getText());
-        System.out.println("Phone Number : "+phoneNumber.getText());
-        System.out.println("College : "+college.getText());
-
-        System.out.println("Name Alignment : "+name.getAlignment());
-        System.out.println("Address Alignment : "+address.getAlignment());
-        System.out.println("Phone Number Alignment : "+phoneNumber.getAlignment());
-        System.out.println("College Alignement : "+college.getAlignment());
-    }
-
-    public static void main(String[] args) {
-        LabelDemoOne label = new LabelDemoOne("Label Demo");
-        label.setSize(300,300);
-        label.setVisible(true);
     }
 }
