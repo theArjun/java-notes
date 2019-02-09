@@ -199,19 +199,29 @@ Java is a general-purpose computer-programming language that is concurrent, clas
 ## LayoutManager
 
 ### FlowLayout
-⏩ [Introduction](https://github.com/theArjun/Java/blob/master/AWT/layout/flowLayout/README.md)
+⏩ [Introduction](https://github.com/theArjun/Java/blob/master/AWT/layout/flowLayout/README.md)  
+⏩ [Code Implementation](https://github.com/theArjun/Java/blob/master/AWT/layout/flowLayout/FlowLayoutDemo.java)  
+
 ### BorderLayout
 ⏩ [Introduction](https://github.com/theArjun/Java/blob/master/AWT/layout/borderLayout/README.md)  
-⏩ [Code Implementation](https://github.com/theArjun/Java/blob/master/AWT/layout/borderLayout/BorderDemo.java)
+⏩ [Code Implementation](https://github.com/theArjun/Java/blob/master/AWT/layout/borderLayout/BorderDemo.java)   
+⏩ [Code Implementation Two](https://github.com/theArjun/Java/blob/master/AWT/layout/borderLayout/BorderLayoutDemo.java)  
+
+
 ### GridLayout
-⏩ [Introdution](https://github.com/theArjun/Java/blob/master/AWT/layout/GridLayout/README.md)  
-⏩ [Code Implementaion](https://github.com/theArjun/Java/blob/master/AWT/layout/GridLayout/GridLayoutDemo.java)
+⏩ [Introdution](https://github.com/theArjun/Java/blob/master/AWT/layout/GridLayout/README.md)    
+⏩ [Code Implementaion One](https://github.com/theArjun/Java/blob/master/AWT/layout/GridLayout/GridLayoutDemo.java)      
+⏩ [Code Implementation Two](https://github.com/theArjun/Java/blob/master/AWT/layout/GridLayout/Directions.java)    
+
 ### CardLayout
-⏩ [Introduction](https://github.com/theArjun/Java/blob/master/AWT/layout/cardLayout/README.md)  
-⏩ [Introduction](https://github.com/theArjun/Java/blob/master/AWT/layout/cardLayout/CardLayoutDemo.java) // Empty
+⏩ [Introduction](https://github.com/theArjun/Java/blob/master/AWT/layout/cardLayout/README.md)   
+⏩ [Code Implementation](https://github.com/theArjun/Java/blob/master/AWT/layout/cardLayout/CardLayoutDemo.java)  
+
+
 ### GridBagLayout
 ⏩ [Introduction](https://github.com/theArjun/Java/blob/master/AWT/layout/GridBagLayout/README.md)  
-⏩ [Code Implementation](https://github.com/theArjun/Java/blob/master/AWT/layout/GridBagLayout/GridBagConstraintsDemo.java)
+⏩ [Code Implementation One](https://github.com/theArjun/Java/blob/master/AWT/layout/GridBagLayout/GridBagConstraintsDemo.java)  
+⏩ [Code Implementation Two - Stages of Life](https://github.com/theArjun/Java/blob/master/AWT/layout/GridBagLayout/StagesOfLife.java)
 
 
 
