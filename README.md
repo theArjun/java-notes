@@ -183,7 +183,7 @@ Java is a general-purpose computer-programming language that is concurrent, clas
 
 ### Choice
 ⏩ [Introduction](https://github.com/theArjun/Java/tree/master/AWT/choice/README.md)   
-⏩ [Code Implementation](https://github.com/theArjun/Java/blob/master/AWT/choiceControl/ChoiceDemo.java)  
+⏩ [Code Implementation](https://github.com/theArjun/Java/blob/master/AWT/choice/ChoiceDemo.java)  
 
 
 ### List
