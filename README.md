@@ -153,24 +153,48 @@ Java is a general-purpose computer-programming language that is concurrent, clas
 
 ### Label
 ⏩ [Introduction](https://github.com/theArjun/Java/blob/master/AWT/label/README.md)   
-⏩ [Code Implementation](https://github.com/theArjun/Java/blob/master/AWT/label/LabelDemo.java)     
+⏩ [Code Implementation One](https://github.com/theArjun/Java/blob/master/AWT/label/LabelDemo.java)     
+⏩ [Code Implementation Two](https://github.com/theArjun/Java/blob/master/AWT/label/Alignment.java)     
+⏩ [Code Implementation Three](https://github.com/theArjun/Java/blob/master/AWT/label/LabelDemoOne.java)     
 ### Button
 ⏩ [Introduction](https://github.com/theArjun/Java/blob/master/AWT/button/README.md)   
-⏩ [Code Implementation](https://github.com/theArjun/Java/blob/master/AWT/button/ILoveNepal.java) 
+⏩ [Code Implementation - Applet](https://github.com/theArjun/Java/blob/master/AWT/button/ILoveNepal.java)   
+⏩ [Code Implementation - Frame](https://github.com/theArjun/Java/blob/master/AWT/button/IWantToLive.java)   
+
 ### TextField
-⏩ [Introduction](https://github.com/theArjun/Java/blob/master/AWT/textField/README.md) 
+⏩ [Introduction](https://github.com/theArjun/Java/blob/master/AWT/textField/README.md)   
+⏩ [Code Implementation - Applet ](https://github.com/theArjun/Java/blob/master/AWT/textField/TextFieldDemo.java)      
+⏩ [Code Implementation - Frame](https://github.com/theArjun/Java/blob/master/AWT/textField/InputInformation.java)
+
 ### TextArea
-⏩ [Introduction](https://github.com/theArjun/Java/tree/master/AWT/textArea/README.md) 
+⏩ [Introduction](https://github.com/theArjun/Java/tree/master/AWT/textArea/README.md)   
+⏩ [Code Implementation](https://github.com/theArjun/Java/blob/master/AWT/textArea/TextAreaDemo.java)  
+
+
 ### CheckBox
-⏩ [Introduction](https://github.com/theArjun/Java/blob/master/AWT/CheckBox/README.md) 
+⏩ [Introduction](https://github.com/theArjun/Java/blob/master/AWT/CheckBox/README.md)   
+⏩ [Code Implementation](https://github.com/theArjun/Java/blob/master/AWT/CheckBox/CheckBoxDemo.java)  
+
+
 ### CheckBoxGroup
-⏩ [Introduction](https://github.com/theArjun/Java/tree/master/AWT/checkBoxGroup/README.md) 
+⏩ [Introduction](https://github.com/theArjun/Java/tree/master/AWT/checkBoxGroup/README.md)  
+⏩ [Code Implementation](https://github.com/theArjun/Java/blob/master/AWT/checkBoxGroup/CheckboxGroupDemo.java)  
+
+
 ### Choice
-⏩ [Introduction](https://github.com/theArjun/Java/tree/master/AWT/choiceControl/README.md) 
+⏩ [Introduction](https://github.com/theArjun/Java/tree/master/AWT/choice/README.md)   
+⏩ [Code Implementation](https://github.com/theArjun/Java/blob/master/AWT/choiceControl/ChoiceDemo.java)  
+
+
 ### List
-⏩ [Introduction](https://github.com/theArjun/Java/tree/master/AWT/list/README.md) 
+⏩ [Introduction](https://github.com/theArjun/Java/tree/master/AWT/list/README.md)  
+⏩ [Code Implementation](https://github.com/theArjun/Java/blob/master/AWT/list/ListDemo.java)  
+ 
+
 ### ScrollBar
-⏩ [Introduction](https://github.com/theArjun/Java/tree/master/AWT/scrollBar/README.md) 
+⏩ [Introduction](https://github.com/theArjun/Java/tree/master/AWT/scrollBar/README.md)   
+⏩ [Code Implementation](https://github.com/theArjun/Java/blob/master/AWT/scrollBar/ScrollbarDemo.java)  
+
 
 ## LayoutManager
 
