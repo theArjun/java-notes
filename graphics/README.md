@@ -20,5 +20,6 @@
 2. ```public void update()```
 - In AWT GUI Components, the ```update()``` clears the background of GUI components.
 
-3. ```public void paintComponent()```
+3. ```public void paintComponent(Graphics g)```
 - Swing components the inherit from the class ```JComponent``` contain method ```paintComponent()``` that helps them to draw properly in the context of a swing GUI.
+
