@@ -12,3 +12,10 @@
 ## Oval
 - ```public void drawOval(int x, int y, int width, int height);```
 - ```public void fillOval(int x, int y, int width, int height);```
+
+## Arc
+- ```public void drawArc(int x, int y, int width, int height, int startAngle, int arcAngle);```
+- ```public void fillArc(int x, int y, int width, int height, int startAngle, int arcAngle);```
+
+> Negative angle means rotating clockwise, positive means anti-clockwise.
+
