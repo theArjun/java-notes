@@ -1,13 +1,15 @@
+
 /* Creation : Arjun Adhikari */
 
 import java.awt.*;
 import java.applet.*;
 
-/* <applet code = "Amazed" height = "700" width = "700"></applet>*/
+/* <applet code = "Amazed" name = "चकित मान्छे" height = "700" width = "700"></applet>*/
 
 public class Amazed extends Applet {
     public static final Color FACE = new Color(255, 205, 0);
     public static final Color TEARS = new Color(106, 188, 218);
+    public static final Color TONGUE = new Color(209, 48, 51);
 
     public void paint(Graphics smiley) {
         setBackground(Color.WHITE);
@@ -37,6 +39,10 @@ public class Amazed extends Applet {
         int[] xMouth = { 305, 395, 350 };
         int[] yMouth = { 413, 413, 450 };
         smiley.fillPolygon(xMouth, yMouth, xMouth.length);
+        smiley.setColor(TONGUE);
+
+        /* Expression by Tongue, too. */
+        smiley.fillArc(305, 460, 90, 50, 0, -180);
 
         /* Tears */
         smiley.setColor(TEARS);
@@ -46,5 +52,7 @@ public class Amazed extends Applet {
         smiley.fillPolygon(xTears, yTears, xTears.length);
         /* Then create a semicircle. */
         smiley.fillArc(500, 220, 60, 70, 360, -180);
+
+        showStatus("हेर न, म चकित छु । ");
     }
 }
