@@ -31,3 +31,6 @@
 ### Methods
 - ```public void addPoint(int x, int y)```
 > To add one point to the existing polygon, we use this method.
+
+- In Polygon, if the last point is different from the first, the polygon is closed by a line that connects the last point to the first.
+- In Polygom, if the last point is different from the first, the polyline is not closed.
