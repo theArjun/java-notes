@@ -30,3 +30,4 @@
 - 
 ### Methods
 - ```public void addPoint(int x, int y)```
+> To add one point to the existing polygon, we use this method.
