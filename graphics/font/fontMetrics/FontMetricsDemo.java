@@ -5,7 +5,7 @@ import java.applet.Applet;
 
 public class FontMetricsDemo extends Applet {
     public void paint(Graphics g) {
-        Font myFont = new Font("serif", Font.BOLD + Font.ITALIC, 18);
+        Font myFont = new Font("serif", Font.BOLD + Font.ITALIC, 18); // Italic ra Bold duitai banauana ko lagi
         g.setFont(myFont);
         g.drawString("Hello GCES", 20, 50);
 
