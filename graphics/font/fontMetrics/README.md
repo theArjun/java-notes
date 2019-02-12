@@ -1,7 +1,7 @@
 # Font Metrics 
 > Important for Exam
 
-![Font Metrics](i.stack.imgur.com%2FtEt8J.png)
+![Font Metrics](https://i.stack.imgur.com/tEt8J.png)
 
 ## Methods
 - ```public int getAscent()```
