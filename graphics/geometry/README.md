@@ -19,3 +19,14 @@
 
 > Negative angle means rotating clockwise, positive means anti-clockwise.
 
+## Drawing Polygons and Polylines
+
+- Polygons are closed multisided shapes composed of straight line segments.
+- Polylines are sequences of connected points.
+
+### Polygon Constructors
+- ```public Polygon()```
+- ```public Polygon(int[] xValues, int[] yValues , int numberOfPoint)```
+- 
+### Methods
+- ```public void addPoint(int x, int y)```
