@@ -33,4 +33,13 @@
 > To add one point to the existing polygon, we use this method.
 
 - In Polygon, if the last point is different from the first, the polygon is closed by a line that connects the last point to the first.
-- In Polygom, if the last point is different from the first, the polyline is not closed.
+- ```public Polygon()```
+- In Polygon, if the last point is different from the first, the polyline is not closed.
+
+### Graphics methods for drawing Polygons
+
+- ```public void drawPolygon(int []xPoints, int []yPoints, int points);```
+- ```public void drawPolyLine(int []xPoints, int []yPoints, int points);```
+- ```public void drawPolygon(Polygon p);```
+- ```public void fillPolygon(Polygon p);```
+- ```public void fillPolygon(Polygon p);```
