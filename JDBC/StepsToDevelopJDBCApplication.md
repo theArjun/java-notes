@@ -1,5 +1,7 @@
 # Steps to Develop JDBC Application
 
+![Steps](https://www.javatpoint.com/java/new/images/java-database-connectivity-steps.jpg)
+
 1. Load and Register driver class.  
 ```Class.forName("Oracle.jdbc.OracleDriver");```
 
