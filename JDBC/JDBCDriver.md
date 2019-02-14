@@ -28,8 +28,20 @@
 
 ### Type 4 Driver
 
-![Driver 4](http://www.javaken.com/java_images/jdbc_type4_driver.jpg)
+![Driver 4](https://www.javaken.com/java_images/jdbc_type4_driver.jpg)
 
 ## Thick vs Thin Driver
 
 > See in copy.
+
+## Comparision
+
+| Property | Type 1 | Type 2 | Type 3 | Type 4 |
+|-----------|--------|-------|---------|--------|
+| Conversion | From JDBC Calls to  ODBC Call | From JDBC Calls to Native Library Call  | From JDBC Calls to Middleware Server Call  |  From JDBC Calls to Database specific Call |
+| Implemented In | Only Java  |  Java and Native Langiages like C, C++  |  Only Java  | Only Java |
+| Architecture | 2 Tier  | 2 Tier  | 3 Tier  | 2 Tier  |
+| Platform Independent | No  | No  | Yes  | Yes  |
+| Database Independent |  Yes | No  | Yes  | No  |
+| Thick or Thin |  Thick | Thick  | Thick  |  Thin |
+| Also Known As | JDBC-ODBC Bridge Driver  | Native API-Partly Driver or Native Driver  |  All Java Net Protocol Driver or Network Protocol Driver or Middleware Driver | Pure Java Driver or Native Protocol or Thin Driver  |
