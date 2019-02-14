@@ -9,5 +9,6 @@ class URLDemo {
         System.out.println("Hostname : " + obj.getHost());
         System.out.println("Port : " + obj.getPort());
         System.out.println("File Hosted : " + obj.getFile());
+        System.out.println("External Form : " + obj.toExternalForm());
     }
 }
