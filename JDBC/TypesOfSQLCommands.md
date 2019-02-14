@@ -50,3 +50,15 @@ Returns the afftected rows.
  -> false - Non-```SELECT``` Query  
  ```public boolean execute (String query) throws SQLException```
 
+ Eg:
+
+        boolean b = st.execute(Dynamically provide SQLQuery);
+        if(b == true) {
+            ResultSet rs = st.getResultSet();
+        }
+        else
+        {
+            int rowCount = st.getUpdateCount();
+        }
+
+
