@@ -4,7 +4,7 @@ import java.io.*;
 class Arjun {
     public static void main(String[] args) throws IOException{
         /* Let's use port 6666 for example. */
-        Socket s = new Socket("localhost",6666);
+        Socket s = new Socket("192.168.0.122",6666);
         
         DataOutputStream dout = new DataOutputStream(s.getOutputStream());
 
