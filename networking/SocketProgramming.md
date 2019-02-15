@@ -10,4 +10,13 @@
 
   Client in socket programming must know :
 - IP Adress
-- Port number 
+
+|Socket Class|ServerSocket Class|        
+|-|-|        
+|This method is used to create a socket.|This class is used to create a ServerSocket.|        
+|**Methods**|**Methods**|
+|- ```public InputStream getInputStream()```|- ```public Socket accept()```|     
+|- ```public OutputStream getOutputStream()```|- ```public synchronized void close()```|        
+|- ```public synchronized void close()```||        
+
+
