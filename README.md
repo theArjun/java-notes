@@ -139,10 +139,10 @@ Java is a general-purpose computer-programming language that is concurrent, clas
 
 ⏩ [Introduction](https://github.com/theArjun/Java/blob/master/packages/Applet/README.md)  
 ⏩ [Code Implementation](https://gist.github.com/theArjun/ffdd35272a711b707a95970e56c24f60)  
-⏩ [Tutorials on Applet](https://github.com/theArjun/Java/blob/f7cee126a17a1e8a59a414d1b097d3de766e3c32/packages/Applet/TUTORIAL.md)  
-⏩ [Life Cycle of Applet](https://github.com/theArjun/Java/blob/ff0c25dcc1b92ef54b6af605e3081b1af6486c48/packages/Applet/lifeCycle/LifeCycle.java)  
-⏩ [Passing Parameter to Applet](https://github.com/theArjun/Java/blob/ff0c25dcc1b92ef54b6af605e3081b1af6486c48/packages/Applet/passingParameter/ParamDemo.java)  
-⏩ [Setting Custom Font Face and Font Size](https://github.com/theArjun/Java/blob/ff0c25dcc1b92ef54b6af605e3081b1af6486c48/packages/Applet/passingParameter/customFontAndSize/Introduction.java)  
+⏩ [Tutorials on Applet](https://github.com/theArjun/Java/blob/master/packages/Applet/TUTORIAL.md)  
+⏩ [Life Cycle of Applet](https://github.com/theArjun/Java/blob/master/packages/Applet/lifeCycle/LifeCycle.java)  
+⏩ [Passing Parameter to Applet](https://github.com/theArjun/Java/blob/master/packages/Applet/passingParameter/ParamDemo.java)  
+⏩ [Setting Custom Font Face and Font Size](https://github.com/theArjun/Java/blob/master/packages/Applet/passingParameter/customFontAndSize/Introduction.java)  
 ⏩ [Nepal's Flag in Applet using AWT Graphics](https://github.com/theArjun/Java/blob/master/packages/GUI/nepaliFlag/Flag.java)  
 ⏩ [Image in Applet](https://github.com/theArjun/Java/tree/master/packages/Applet/displayingImage)
 
@@ -281,7 +281,7 @@ Java is a general-purpose computer-programming language that is concurrent, clas
 
 ### Text Listener
 ⏩ [Introduction](https://github.com/theArjun/Java/blob/master/events/TextListener/README.md)  
-⏩ [Code Implementation]() // TODO
+⏩ [Code Implementation](https://github.com/theArjun/Java/blob/master/events/TextListener/TextAreaDemo.java) 
 
 ### WindowFocus Listener
 ⏩ [Introduction](https://github.com/theArjun/Java/blob/master/events/WindowFocusListener/README.md)  
@@ -292,27 +292,30 @@ Java is a general-purpose computer-programming language that is concurrent, clas
 ⏩ [Code Implementation](https://github.com/theArjun/Java/blob/master/events/WindowListener/WindowListenerDemo.java)  
 
 ### Adapter Class
-⏩ [Introduction]()  
-⏩ [Code Implementation One]()  
-⏩ [Close By Window Button]()  
+⏩ [Introduction](https://github.com/theArjun/Java/blob/master/events/Adapter/README.md)  
+⏩ [Code Implementation One](https://github.com/theArjun/Java/blob/master/events/Adapter/AdapterDemo.java)  
+⏩ [Close By Window Button](https://github.com/theArjun/Java/blob/master/events/Adapter/CloseByWindowButton.java)  
 
 ## Swing
 
-⏩ [Introduction]()  
-⏩ [Swing Components]()  
-⏩ [Swing's Component's Hierarchy]()  
-⏩ [Differences Between AWT and Swing]()  
+⏩ [Swing Components](https://github.com/theArjun/Java/blob/master/swing/COMPONENTS.md)  
+⏩ [Swing's Component's Hierarchy](https://github.com/theArjun/Java/blob/master/swing/HIERARCHY.md)  
+⏩ [Differences Between AWT and Swing](https://github.com/theArjun/Java/blob/master/swing/DIFFERENCES.md)  
 
 ### Multicasting
-⏩ [Introduction]()  
-⏩ [Code Implementation]() 
+⏩ [Introduction](https://github.com/theArjun/Java/blob/master/swing/multiCasting/MULTICASTING.md)  
+⏩ [Code Implementation](https://github.com/theArjun/Java/blob/master/swing/multiCasting/MultiCastEvent.java) 
 
 ### JApplet
-⏩ [Code Implementation]()  
+⏩ [Code Implementation](https://github.com/theArjun/Java/blob/master/swing/JApplet/JAppletDemo.java)  
 
 ### JFrame
-⏩ [Extending JFrame]()  
-⏩ [JFrame By Association]()  
+⏩ [Extending JFrame](https://github.com/theArjun/Java/blob/master/swing/JFrame/JFrameDemo.java)  
+⏩ [JFrame By Association](https://github.com/theArjun/Java/blob/master/swing/JFrame/JFrameDemoByAssociation.java)  
+
+### JTextField
+⏩ [Code Implementation](https://github.com/theArjun/Java/blob/master/swing/JTextField/JTextFieldDemo.java)  
+
 
 ## Graphics
 ![Graphics Logo](https://cdn1.iconfinder.com/data/icons/video-production-butterscotch-vol-2/256/Motion_Graphics-128.png)
