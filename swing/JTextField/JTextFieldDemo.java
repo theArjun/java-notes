@@ -12,7 +12,7 @@ public class JTextFieldDemo extends JFrame {
         setVisible(true);
         setLayout(new FlowLayout());
 
-        jOne = new JTextField("This is default", 20);
+        jOne = new JTextField("This is default");
         add(jOne);
     }
 
