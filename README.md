@@ -4,7 +4,23 @@
 
 Java is a general-purpose computer-programming language that is concurrent, class-based, object-oriented, and specifically designed to have as few implementation dependencies as possible.
 
->
+## In a hurry ? 
+[Basics](##basics)
+[Control Flow]()
+[Arrays]()
+[Classes and Objects]()
+[Inheritance]()
+[Package]()
+[Exception]()
+[IO]()
+[Applet]()
+[AWT]()
+[Managing Layout]()
+[Event]()
+[Swing]()
+[Graphics]()
+[JDBC]()
+[Networking]()
 
 ## Basics
 
@@ -202,6 +218,9 @@ Java is a general-purpose computer-programming language that is concurrent, clas
 ⏩ [Introduction](https://github.com/theArjun/Java/tree/master/AWT/scrollBar/README.md)  
 ⏩ [Code Implementation](https://github.com/theArjun/Java/blob/master/AWT/scrollBar/ScrollbarDemo.java)
 
+### Menu
+⏩ [Code Implementation](https://github.com/theArjun/Java/blob/master/AWT/menu/MenuDemo.java)  
+
 ## LayoutManager
 
 ### FlowLayout
@@ -297,7 +316,7 @@ Java is a general-purpose computer-programming language that is concurrent, clas
 ⏩ [Close By Window Button](https://github.com/theArjun/Java/blob/master/events/Adapter/CloseByWindowButton.java)  
 
 ## Swing
-
+![Swing Image](https://image.flaticon.com/icons/png/128/147/147119.png)  
 ⏩ [Swing Components](https://github.com/theArjun/Java/blob/master/swing/COMPONENTS.md)  
 ⏩ [Swing's Component's Hierarchy](https://github.com/theArjun/Java/blob/master/swing/HIERARCHY.md)  
 ⏩ [Differences Between AWT and Swing](https://github.com/theArjun/Java/blob/master/swing/DIFFERENCES.md)  
@@ -316,13 +335,17 @@ Java is a general-purpose computer-programming language that is concurrent, clas
 ### JTextField
 ⏩ [Code Implementation](https://github.com/theArjun/Java/blob/master/swing/JTextField/JTextFieldDemo.java)  
 
+### Dialog in Swing
+⏩ [Code Implementation](https://github.com/theArjun/Java/blob/master/swing/dialog/DialogDemo.java)
+
 
 ## Graphics
 ![Graphics Logo](https://cdn1.iconfinder.com/data/icons/video-production-butterscotch-vol-2/256/Motion_Graphics-128.png)
 
 
 ### Color
-⏩ [Introduction](https://github.com/theArjun/Java/blob/master/graphics/color/README.md)   
+⏩ [Introduction](https://github.com/theArjun/Java/blob/master/graphics/color/README.md)  
+⏩ [Color Controls](https://github.com/theArjun/Java/tree/master/graphics/control/README.md)      
 ⏩ [Demonstrates Color using JPanel](https://github.com/theArjun/Java/blob/master/graphics/color/ColorJPanel.java)   
 ⏩ [Demonstrates Color using Applet](https://github.com/theArjun/Java/blob/master/graphics/color/withApplet/ColorDemo.java)    
 ⏩ [Show Colors](https://github.com/theArjun/Java/blob/master/graphics/color/ShowColors.java) 
@@ -342,6 +365,47 @@ Java is a general-purpose computer-programming language that is concurrent, clas
 ⏩ [Polygon Implementation](https://github.com/theArjun/Java/blob/master/graphics/geometry/PolygonDemo.java)   
 ⏩ [Round Rectangle Implementation](https://github.com/theArjun/Java/blob/master/graphics/geometry/RoundRectangle.java)   
 
+### Exercises
+⏩ [Smileys](https://github.com/theArjun/Java/tree/master/graphics/smiley)   
+⏩ [Bar Chart](https://github.com/theArjun/Java/tree/master/graphics/barChart)   
+⏩ [Nepal's Flag](https://github.com/theArjun/Java/tree/master/graphics/nepaliFlag)   
+
+## JDBC
+![Database Image](https://cdn0.iconfinder.com/data/icons/kameleon-free-pack-rounded/110/Database-Cloud-128.png)  
+
+⏩ [Introduction](https://github.com/theArjun/Java/blob/master/JDBC/README.md)   
+⏩ [Difference between ODBC and JDBC](https://github.com/theArjun/Java/blob/master/JDBC/DIFFERENCES.md)   
+⏩ [Steps to develop JDBC Application](https://github.com/theArjun/Java/blob/master/JDBC/StepsToDevelopJDBCApplication.md)  
+⏩ [Difference between Statement and Prepared Statement](https://github.com/theArjun/Java/blob/master/JDBC/DifferencesBetweenStatementAndPS.md)   
+⏩ [JDBC Features](https://github.com/theArjun/Java/blob/master/JDBC/FEATURES.md)   
+⏩ [JDBC Drivers](https://github.com/theArjun/Java/blob/master/JDBC/JDBCDriver.md)   
+⏩ [SQL Commands](https://github.com/theArjun/Java/blob/master/JDBC/TypesOfSQLCommands.md)   
+⏩ [SQL Injection](https://github.com/theArjun/Java/blob/master/JDBC/SQLInjection.md)   
+
+### Implementation
+⏩ [Select Operation](https://github.com/theArjun/Java/blob/master/JDBC/src/com/gces/jdbc/Test.java)   
+⏩ [Select Operation Two](https://github.com/theArjun/Java/blob/master/JDBC/src/com/gces/jdbc/Students.java)   
+⏩ [Create Operation](https://github.com/theArjun/Java/blob/master/JDBC/src/com/gces/jdbc/DataEntryDemo.java)   
+⏩ [Create Table from Java Code](https://github.com/theArjun/Java/blob/master/JDBC/src/com/gces/jdbc/Election.java)   
+⏩ [Update Operation](https://github.com/theArjun/Java/blob/master/JDBC/src/com/gces/jdbc/SalaryUpdate.java)   
+⏩ [Delete Operation](https://github.com/theArjun/Java/blob/master/JDBC/src/com/gces/jdbc/DeleteData.java)  
+
+## Networking
+![Networking Image](https://www.shareicon.net/data/128x128/2016/09/23/834093_network_512x512.png)  
+⏩ [Introduction](https://github.com/theArjun/Java/blob/master/networking/README.md)   
+⏩ [URL Class](https://github.com/theArjun/Java/tree/master/networking/URL/README.md)   
+⏩ [InetAddress Class](https://github.com/theArjun/Java/blob/master/networking/InetAddress/README.md)   
+⏩ [InetAddress Implementation](https://github.com/theArjun/Java/blob/master/networking/InetAddress/InetAddressDemo.java)   
+⏩ [URL Implementation](https://github.com/theArjun/Java/blob/master/networking/URLDemo.java)   
+⏩ [URL Connection Implementation](https://github.com/theArjun/Java/blob/master/networking/URLConnectionDemo.java)   
+⏩ [HttpURL Connection Implementation](https://github.com/theArjun/Java/blob/master/networking/HttpURLConnectionDemo.java)   
+⏩ [Is Internet Available ?](https://github.com/theArjun/Java/blob/master/networking/IsInternetAvailable.java)   
+⏩ [Whois Implementation](https://github.com/theArjun/Java/blob/master/networking/Whois.java)   
+
+### Socket Programming
+⏩ [Introduction](https://github.com/theArjun/Java/blob/master/networking/SocketProgramming.md)   
+⏩ [Chat Application](https://github.com/theArjun/Java/tree/master/networking/chatApplication)   
+⏩ [ConnectionLess Networking](https://github.com/theArjun/Java/blob/master/networking/ConnectionLess/README.md)    
 
 
 
