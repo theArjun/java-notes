@@ -321,6 +321,27 @@ Java is a general-purpose computer-programming language that is concurrent, clas
 ![Graphics Logo](https://cdn1.iconfinder.com/data/icons/video-production-butterscotch-vol-2/256/Motion_Graphics-128.png)
 
 
+### Color
+⏩ [Introduction](https://github.com/theArjun/Java/blob/master/graphics/color/README.md)   
+⏩ [Demonstrates Color using JPanel](https://github.com/theArjun/Java/blob/master/graphics/color/ColorJPanel.java)   
+⏩ [Demonstrates Color using Applet](https://github.com/theArjun/Java/blob/master/graphics/color/withApplet/ColorDemo.java)    
+⏩ [Show Colors](https://github.com/theArjun/Java/blob/master/graphics/color/ShowColors.java) 
+
+### Font
+⏩ [Introduction](https://github.com/theArjun/Java/blob/master/graphics/font/README.md)     
+⏩ [Custom Font and Size](https://github.com/theArjun/Java/blob/master/graphics/font/CustomFontAndSize.java)   
+⏩ [Font Metrics Introduction](https://github.com/theArjun/Java/blob/master/graphics/font/fontMetrics/README.md)   
+⏩ [Font Metrics Implementation](https://github.com/theArjun/Java/blob/master/graphics/font/fontMetrics/FontMetricsDemo.java)   
+
+### Geometry
+⏩ [Introduction](https://github.com/theArjun/Java/blob/master/graphics/geometry/README.md)   
+⏩ [DrawArc Implementation](https://github.com/theArjun/Java/blob/master/graphics/geometry/DrawArc.java)   
+⏩ [DrawOval Implementation](https://github.com/theArjun/Java/blob/master/graphics/geometry/DrawOval.java)   
+⏩ [DrawRect Implementation](https://github.com/theArjun/Java/blob/master/graphics/geometry/DrawRectangle.java)   
+⏩ [PolyLine Implementation](https://github.com/theArjun/Java/blob/master/graphics/geometry/PolyLineDemo.java)   
+⏩ [Polygon Implementation](https://github.com/theArjun/Java/blob/master/graphics/geometry/PolygonDemo.java)   
+⏩ [Round Rectangle Implementation](https://github.com/theArjun/Java/blob/master/graphics/geometry/RoundRectangle.java)   
+
 
 
 
