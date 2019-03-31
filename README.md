@@ -5,22 +5,22 @@
 Java is a general-purpose computer-programming language that is concurrent, class-based, object-oriented, and specifically designed to have as few implementation dependencies as possible.
 
 ## In a hurry ? 
-[Basics](##basics)
-[Control Flow]()
-[Arrays]()
-[Classes and Objects]()
-[Inheritance]()
-[Package]()
-[Exception]()
-[IO]()
-[Applet]()
-[AWT]()
-[Managing Layout]()
-[Event]()
-[Swing]()
-[Graphics]()
-[JDBC]()
-[Networking]()
+[Basics](#basics)  
+[Control Flow](#control-flow)  
+[Arrays](#arrays)  
+[Classes and Objects](#classes-and-objects)  
+[Inheritance](#inheritance)  
+[Packages](#packages)  
+[Exception](#exception)   
+[IO](#inputoutput)  
+[Applet](#applet)  
+[AWT](#awt)  
+[Managing Layout](#layoutmanager)  
+[Event](#event--events-handling)   
+[Swing](#swing)  
+[Graphics](#graphics)  
+[JDBC](#jdbc)  
+[Networking](networking)  
 
 ## Basics
 
