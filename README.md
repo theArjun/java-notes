@@ -1,27 +1,27 @@
 <link href="https://fonts.googleapis.com/css?family=Open+Sans|Pacifico" rel="stylesheet"> 
 
-# <span style="font-family: 'Pacifico';">Java Programs</span>  
+# <span style="font-family: 'Pacifico';">Java Notes</span>  
 ![Java Icon](https://i.ibb.co/RCn3qQv/1387539.png)
 
 Java is a general-purpose computer-programming language that is concurrent, class-based, object-oriented, and specifically designed to have as few implementation dependencies as possible.
 
 ## In a hurry ? 
-[Basics](#basics)  
-[Control Flow](#control-flow)  
-[Arrays](#arrays)  
-[Classes and Objects](#classes-and-objects)  
-[Inheritance](#inheritance)  
-[Packages](#packages)  
-[Exception](#exception)   
-[IO](#inputoutput)  
-[Applet](#applet)  
-[AWT](#awt)  
-[Managing Layout](#layoutmanager)  
-[Event](#event--events-handling)   
-[Swing](#swing)  
-[Graphics](#graphics)  
-[JDBC](#jdbc)  
-[Networking](networking)  
+1. [Basics](#basics)  
+2. [Control Flow](#control-flow)  
+3. [Arrays](#arrays)  
+4. [Classes and Objects](#classes-and-objects)  
+5. [Inheritance](#inheritance)  
+6. [Packages](#packages)  
+7. [Exception](#exception)   
+8. [IO](#inputoutput)  
+9. [Applet](#applet)  
+10. [AWT](#awt)  
+11. [Managing Layout](#layoutmanager)  
+12. [Event](#event--events-handling)   
+13. [Swing](#swing)  
+14. [Graphics](#graphics)  
+15. [JDBC](#jdbc)  
+16. [Networking](#networking)  
 
 ## Basics
 
