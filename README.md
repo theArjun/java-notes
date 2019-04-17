@@ -3,8 +3,6 @@
 # <span style="font-family: 'Pacifico';">Java Notes</span>  
 ![Java Icon](https://i.ibb.co/RCn3qQv/1387539.png)
 
-> ✍ **Arjun Adhikari**
-
 Java is a general-purpose computer-programming language that is concurrent, class-based, object-oriented, and specifically designed to have as few implementation dependencies as possible.
 
 ## In a hurry ? 
