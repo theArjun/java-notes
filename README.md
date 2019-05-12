@@ -156,14 +156,14 @@ Java is a general-purpose computer-programming language that is concurrent, clas
 
 ![Applet Logo](http://files.softicons.com/download/system-icons/oxygen-icons-by-oxygen/png/128x128/mimetypes/application_x_java_applet.png)
 
-⏩ [Introduction](https://github.com/theArjun/Java/blob/master/packages/Applet/README.md)  
+⏩ [Introduction](https://github.com/theArjun/Java/blob/master/applet/README.md)  
 ⏩ [Code Implementation](https://gist.github.com/theArjun/ffdd35272a711b707a95970e56c24f60)  
-⏩ [Tutorials on Applet](https://github.com/theArjun/Java/blob/master/packages/Applet/TUTORIAL.md)  
-⏩ [Life Cycle of Applet](https://github.com/theArjun/Java/blob/master/packages/Applet/lifeCycle/LifeCycle.java)  
-⏩ [Passing Parameter to Applet](https://github.com/theArjun/Java/blob/master/packages/Applet/passingParameter/ParamDemo.java)  
-⏩ [Setting Custom Font Face and Font Size](https://github.com/theArjun/Java/blob/master/packages/Applet/passingParameter/customFontAndSize/Introduction.java)  
+⏩ [Tutorials on Applet](https://github.com/theArjun/Java/blob/master/applet/TUTORIAL.md)  
+⏩ [Life Cycle of Applet](https://github.com/theArjun/Java/blob/master/applet/lifeCycle/LifeCycle.java)  
+⏩ [Passing Parameter to Applet](https://github.com/theArjun/Java/blob/master/applet/passingParameter/ParamDemo.java)  
+⏩ [Setting Custom Font Face and Font Size](https://github.com/theArjun/Java/blob/master/applet/passingParameter/customFontAndSize/Introduction.java)  
 ⏩ [Nepal's Flag in Applet using AWT Graphics](https://github.com/theArjun/Java/blob/master/packages/GUI/nepaliFlag/Flag.java)  
-⏩ [Image in Applet](https://github.com/theArjun/Java/tree/master/packages/Applet/displayingImage)
+⏩ [Image in Applet](https://github.com/theArjun/Java/tree/master/applet/displayingImage)
 
 ## AWT
 
