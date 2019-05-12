@@ -117,40 +117,40 @@ Java is a general-purpose computer-programming language that is concurrent, clas
 
 ### File
 
-⏩ [Introduction](https://github.com/theArjun/Java/blob/master/packages/io/File/README.md)
+⏩ [Introduction](https://github.com/theArjun/Java/blob/master/io/File/README.md)
 
 > Programs on File class
 
-⏩ [Creates file inside folder](https://github.com/theArjun/Java/blob/master/packages/io/File/MyFileInsideFolder.java)  
-⏩ [Creates files](https://github.com/theArjun/Java/blob/master/packages/io/File/MyFileInsideFolderWithCondition.java)  
-⏩ [Counts only files on default directory](https://github.com/theArjun/Java/blob/master/packages/io/File/CountsFile.java)  
-⏩ [Displays files and directories](https://github.com/theArjun/Java/blob/master/packages/io/File/DisplayFileAndDirectories.java)  
-⏩ [Displays files and directories based on Command Line Arguments passed](https://github.com/theArjun/Java/blob/master/packages/io/File/CLA/DisplayWithCLA.java)
+⏩ [Creates file inside folder](https://github.com/theArjun/Java/blob/master/io/File/MyFileInsideFolder.java)  
+⏩ [Creates files](https://github.com/theArjun/Java/blob/master/io/File/MyFileInsideFolderWithCondition.java)  
+⏩ [Counts only files on default directory](https://github.com/theArjun/Java/blob/master/io/File/CountsFile.java)  
+⏩ [Displays files and directories](https://github.com/theArjun/Java/blob/master/io/File/DisplayFileAndDirectories.java)  
+⏩ [Displays files and directories based on Command Line Arguments passed](https://github.com/theArjun/Java/blob/master/io/File/CLA/DisplayWithCLA.java)
 
 ### FileWriter
 
-⏩ [Introduction](https://github.com/theArjun/Java/blob/master/packages/io/FileWriter/README.md)  
-⏩ [Code Implementation](https://github.com/theArjun/Java/tree/master/packages/io/FileWriter)
+⏩ [Introduction](https://github.com/theArjun/Java/blob/master/io/FileWriter/README.md)  
+⏩ [Code Implementation](https://github.com/theArjun/Java/tree/master/io/FileWriter)
 
 ### FileReader
 
-⏩ [Introduction](https://github.com/theArjun/Java/blob/master/packages/io/FileReader/README.md)  
-⏩ [Code Implementation](https://github.com/theArjun/Java/tree/master/packages/io/FileReader)
+⏩ [Introduction](https://github.com/theArjun/Java/blob/master/io/FileReader/README.md)  
+⏩ [Code Implementation](https://github.com/theArjun/Java/tree/master/io/FileReader)
 
 ### BufferedWriter
 
-⏩ [Introduction](https://github.com/theArjun/Java/blob/master/packages/io/BufferedWriter/README.md)  
-⏩ [Code Implementation](https://github.com/theArjun/Java/tree/master/packages/io/BufferedWriter)
+⏩ [Introduction](https://github.com/theArjun/Java/blob/master/io/BufferedWriter/README.md)  
+⏩ [Code Implementation](https://github.com/theArjun/Java/tree/master/io/BufferedWriter)
 
 ### BufferedReader
 
-⏩ [Introduction](https://github.com/theArjun/Java/blob/master/packages/io/BufferedReader/README.md)  
-⏩ [Code Implementation](https://github.com/theArjun/Java/tree/master/packages/io/BufferedReader)
+⏩ [Introduction](https://github.com/theArjun/Java/blob/master/io/BufferedReader/README.md)  
+⏩ [Code Implementation](https://github.com/theArjun/Java/tree/master/io/BufferedReader)
 
 ### PrintWriter
 
-⏩ [Introduction](https://github.com/theArjun/Java/blob/master/packages/io/PrintWriter/README.md)  
-⏩ [Code Implementation](https://github.com/theArjun/Java/tree/master/packages/io/PrintWriter)
+⏩ [Introduction](https://github.com/theArjun/Java/blob/master/io/PrintWriter/README.md)  
+⏩ [Code Implementation](https://github.com/theArjun/Java/tree/master/io/PrintWriter)
 
 ## Applet
 
