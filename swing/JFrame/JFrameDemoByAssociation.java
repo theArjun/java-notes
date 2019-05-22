@@ -1,4 +1,6 @@
 import javax.swing.*;
+import java.awt.event.*;
+import javax.swing.event.*;
 import java.awt.*;
 
 class JFrameDemoByAssociation {
@@ -14,7 +16,7 @@ class JFrameDemoByAssociation {
         JLabel label = new JLabel("This is label");
         j.add(label);
 
-        addWindowListener(new WindowAdapter(){
+        j.addWindowListener(new WindowAdapter(){
             public void windowClosing(WindowEvent we) {
                 System.exit(0);
             }
