@@ -6,7 +6,7 @@ public class Receiver {
         
         DatagramSocket ds = new DatagramSocket(6666);
 
-        Byte[] buf = new Byte[1024];
+        byte[] buf = new byte[1024];
 
         DatagramPacket dp = new DatagramPacket(buf, 1024);
         ds.receive(dp);
