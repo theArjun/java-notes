@@ -11,7 +11,7 @@
 1. ```BufferedWriter bw  = new BufferedWriter("abc.txt")``` ❌  
 2. ```BufferedWriter bw  = new BufferedWriter(new File("abc.txt"))``` ❌    
 3. ```BufferedWriter bw  = new BufferedWriter(new FileWriter("abc.txt"))``` ✅    
-4. ```BufferedWriter bw  = new BufferedWriter(new FileWriter(new FileWriter("abc.txt")))``` ✅    
+4. ```BufferedWriter bw  = new BufferedWriter(new FileWriter(new FileWriter("abc.txt")))``` ❌    
 
 ## Methods
 
