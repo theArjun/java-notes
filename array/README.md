@@ -6,10 +6,15 @@ Java provides a data structure, the array, which stores a fixed-size sequential 
 
 ## Advantages 
 - We can represent huge number of value using single variable. So, that readability of code will be improved.
+- Multiple data items of same data type can be accessed using single name.
+- Arrays can be used to implement matrices.
+- Data structure like queue , linked list can be accessed using arrays.
 
 ## Downpoints
 - Fixed in size
-- Can only hold similar tyhpe data. To overcome this, we use collecetion.
+- Since array is of fixed size, if we allocate more memory than requirement then the memory space will be wasted. And if we allocate       less memory than requirement, then it will create problem.
+- The elements of array are stored in consecutive memory locations. So insertions and deletions are very difficult and time consuming.
+- Can only hold similar type of data. To overcome this, we use collection framework.
 
 ## Declaration
         int[] x;
@@ -31,8 +36,16 @@ Java provides a data structure, the array, which stores a fixed-size sequential 
         int   [][]x;
         int   []x[];
 
-## Initialization
+## Instantiation 
         int[] x = new int[1000]; // fixed in size.
+        
+ ## Initilization
+       int a[]=new int[5];//declaration and instantiation  
+      a[0]=10; 
+      a[1]=20;  
+      a[2]=70;  
+      a[3]=40;  
+      a[4]=50; 
 
 ## Examples
     int[] a,b; -> 1D Array
