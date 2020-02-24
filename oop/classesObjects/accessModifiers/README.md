@@ -1,12 +1,14 @@
 # Access Modifiers/ Control
 
-![accessModifier](https://thearjun.tech/array/accessModifier.png)
-
 - Encapsulation provides anoter important attribute: access Control
 
-![accessKeywords](https://thearjun.tech/array/accessModifierChart.png)
+![accessKeywords](https://qph.fs.quoracdn.net/main-qimg-da076fc27ef10e5b8e05e7d252e183e6.webp)
 
 - Following tables summarizes what Java constructs each Java access control can be applied.
 
-![accessKeywordTable](https://thearjun.tech/array/accessModifierTable.png)
-![accessKeywordTable](https://thearjun.tech/array/accessModifierTableone.png)
+![accessKeywordTable](https://www.cdn.geeksforgeeks.org/wp-content/uploads/Access-Modifiers-in-Java.png)
+
+The given table can be visualized as :  
+
+
+![accessKeywordTable](https://www.studytonight.com/java/images/access-modifier.jpg)
