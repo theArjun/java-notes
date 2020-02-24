@@ -1,7 +1,7 @@
 # Dynamic Method Dispatch 
 ## How Java implements run-time polymorphism ?
 
-![Dynamic Method Dispatch Image](https://www.thearjun.tech/array/upcasting-in-java.jpg)
+![Dynamic Method Dispatch Image](https://i.ibb.co/59N2bmd/viber-image-2020-02-24-18-15-23.jpg)
 
 - Overiding method allow Java to support run-time polymorphism.
 - Dynamic method dispatch is the mechanism by which a call to an overridden method is resolved at run time, rather than compile time.
