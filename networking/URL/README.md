@@ -12,8 +12,8 @@
 
 ## Methods
 
-1. public String getProtocol()
-1. public String getHost()
-1. public String getPort()
-1. public String getFile()
-1. public String getQuery() // ?name = "GCES"
+1. ```public String getProtocol()```
+1. ```public String getHost()```
+1. ```public String getPort()```
+1. ```public String getFile()```
+1. ```public String getQuery()``` // ?name = "GCES"
