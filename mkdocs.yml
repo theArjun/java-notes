@@ -86,6 +86,9 @@ nav:
   - Arrays: 
       - Introduction: array/README.md
       - Matrix Representation: array/matrixRepresentation/README.md
+      - Array Representation 01: array/arrayRepresentation01/README.md
+      - Array Representation 02: array/arrayRepresentation02/README.md
+      - Examples: array/extra.md
   - Exams:
      - Questions:
         - Programming Questions: exams/examQuestions/ProgrammingQuestions.md
