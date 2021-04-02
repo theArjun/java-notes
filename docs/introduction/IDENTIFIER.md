@@ -7,12 +7,14 @@
 
 > How many identifier here ?
 
-        class Hello{
-            public static void main(String[] args){
-                int numOne = 20;
-                int numTwo = 10;
-            }
-        }
+```java
+class Hello{
+    public static void main(String[] args){
+        int numOne = 20;
+        int numTwo = 10;
+    }
+}
+```
 
 String -> Wrapper Class  
 Main -> Name of function  
@@ -26,15 +28,17 @@ Hello -> Class Name
 | num1      | ✅ | 
 | 1num      | ❌ | 
 
-        class Test{
-            int num = 10;
-            int NUM = 20;
-            int Num = 30;
-        }
+```java
+class Test{
+    int num = 10;
+    int NUM = 20;
+    int Num = 30;
+}
+```
 
 > Java is case-sensitive and all three declaration of variables are valid.
 
-## Notes :  
+## Notes  
 - Identifier length is not limit. 
 - Max character - no length limit 
   
