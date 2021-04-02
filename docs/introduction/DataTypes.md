@@ -2,8 +2,10 @@
 
 Java is strongly-typed language.
 
-        int x = 10.5; ❌
-        boolean b = 0; ❌
+```java
+int x = 10.5; ❌
+boolean b = 0; ❌
+```
 
 > Java doesn't support 1/0 as boolean data like C/C++ .
 
@@ -13,15 +15,19 @@ Java is strongly-typed language.
 
 ### Note :
 
-        if(1){ // Needs true / false.
-            //doesn't run
-        }
+```java
+if(1){ // Needs true / false.
+    //doesn't run
+}
+```
 
 > No operator overloading, multiple inheritance are supported in Java.
 
 ### Syntax:
 
-    data_type identifier = literal ;
+```java
+data_type identifier = literal ;
+```
 
 ![Data Types in Java](https://simplesnippets.tech/wp-content/uploads/2018/03/java-datatypes.jpg)
 
