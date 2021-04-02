@@ -74,6 +74,8 @@ extra_css:
 
 plugins:
   - search
+  - macros:
+      include_dir: docs
 nav:
   - README.md
   - Let's Start: 
@@ -83,6 +85,7 @@ nav:
       - Data Types: introduction/DataTypes.md
   - Arrays: 
       - Introduction: array/README.md
+      - Matrix Representation: array/matrixRepresentation/README.md
   - Exams:
      - Questions:
         - Programming Questions: exams/examQuestions/ProgrammingQuestions.md
