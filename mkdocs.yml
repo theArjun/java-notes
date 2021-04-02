@@ -61,7 +61,7 @@ extra:
       link: https://github.com/thearjun
     - icon: fontawesome/solid/envelope
       link: mailto:mailarjunadhikari@gmail.com
-    - icon: fontawesome/solid/user-md
+    - icon: fontawesome/solid/user
       link: https://www.upwork.com/freelancers/~017a123f27939046d8
 
 extra_javascript:
@@ -82,3 +82,6 @@ nav:
       - Data Types: introduction/DataTypes.md
   - Arrays: 
       - Introduction: array/README.md
+  - Exams:
+     - Questions:
+        - exams/examQuestions/ProgrammingQuestions.md
