@@ -23,30 +23,30 @@ copyright: Copyright &copy; 2020 Arjun Adhikari
 repo_url: https://github.com/thearjun/java-notes
 repo_name: thearjun/java-notes
 # edit_uri: ""
-# markdown_extensions:
-#   - meta
-#   - abbr
-#   - admonition
-#   - pymdownx.details
-#   - attr_list
-#   - pymdownx.highlight:
-#       linenums_style: pymdownx.inline
-#   - pymdownx.superfences
-#   - pymdownx.inlinehilite
-#   - pymdownx.snippets
-#   - pymdownx.keys
-#   - pymdownx.tabbed
-#   - pymdownx.betterem:
-#       smart_enable: all
-#   - pymdownx.caret
-#   - pymdownx.mark
-#   - pymdownx.tilde
-#   - pymdownx.smartsymbols
-#   - def_list
-#   - pymdownx.tasklist:
-#       custom_checkbox: true
-#   - pymdownx.arithmatex:
-#       generic: true
+markdown_extensions:
+  - meta
+  - abbr
+  - admonition
+  - pymdownx.details
+  - attr_list
+  - pymdownx.highlight:
+      linenums_style: pymdownx.inline
+  - pymdownx.superfences
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.keys
+  - pymdownx.tabbed
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.smartsymbols
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.arithmatex:
+      generic: true
 google_analytics:
   - UA-123982482-1
   - auto
@@ -75,6 +75,7 @@ extra_css:
 plugins:
   - search
 nav:
+  - README.md
   - Let's Start: 
       - introduction/README.md
       - Identifiers: introduction/IDENTIFIER.md
@@ -84,4 +85,5 @@ nav:
       - Introduction: array/README.md
   - Exams:
      - Questions:
-        - exams/examQuestions/ProgrammingQuestions.md
+        - Programming Questions: exams/examQuestions/ProgrammingQuestions.md
+        - General Questions: exams/examQuestions/README.md

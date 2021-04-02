@@ -1,6 +1,6 @@
 ---
-title: Exam Questions
-description: Java Questions appeared in exams of Pokhara University Bachelors Degree.
+title: Programming Questions
+description: Java Programming Questions appeared in exams of Pokhara University Bachelors Degree.
 ---
 
 > ✅ in questions denotes the no of question appearence. More the tick in question, possess high importance from examination point of view.  

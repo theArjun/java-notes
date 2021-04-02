@@ -1,6 +1,7 @@
-# Java Questions for Unit Test I
-
-> 16th December 2019, **Arjun Adhikari**
+---
+title: General Exam Questions
+description: Java Questions appeared in exams of Pokhara University Bachelors Degree.
+---
 	
 > ✅ in questions denotes the no of question appearence. More the tick in question, possess high importance from examination point of view.
 
@@ -28,10 +29,12 @@
 21.	Write a program to show usage of various data types in Java.
 22.	Write a function that takes an array of integers as an argument and returns sum of even numbers in that array.
 23.	Write a program to generate the following triangle using for loop.  
+```
 1  
 0  1  
 1  0  1  
 0  1  0  1
+```
 
 
 ## Chapter 2
