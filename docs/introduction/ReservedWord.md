@@ -1,6 +1,17 @@
-# Reserved Word
+---
+title: Reserved Words
+description: Classification of reserved words in Java Programming language.
+---
 
-![Reserved Words](https://programmingstack.com/images/types-of-keyword1.jpg)
+| Reserved Word                                                                                                                                                                | Keywords                                                                                         |  
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| Java reserved words are the words that are reserved by Java functions or  other uses that cannot be used as identifiers (e.g., variable names,  function names, class names) | Keywords are the reserved words that keep special meaning in Java. (e.g. for, int,  class ,etc.) |
+| They are 53 in number till now.                                                                                                                                              | They are 50 in number.                                                                           | 
+| All reserved words cannot be keywords.                                                                                                                                       | All keywords are reserved words.                                                                 | 
+
+
+
+![Reserved Words](http://1-dot-kriblogapp1.appspot.com/content/studymaterial/j2se/img/java-keywords.png)
 
 ## Used Keywords :  
 - Exception Handling (6)
@@ -80,10 +91,4 @@
 11. volatile
 ```
 
-
-| Reserved Word                                                                                                                                                                | Keywords                                                                                         |  
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
-| Java reserved words are the words that are reserved by Java functions or  other uses that cannot be used as identifiers (e.g., variable names,  function names, class names) | Keywords are the reserved words that keep special meaning in Java. (e.g. for, int,  class ,etc.) |
-| They are 53 in number till now.                                                                                                                                              | They are 50 in number.                                                                           | 
-| All reserved words cannot be keywords.                                                                                                                                       | All keywords are reserved words.                                                                 | 
 
