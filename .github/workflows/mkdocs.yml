@@ -2,7 +2,7 @@ name: Create Java notes site with MKDOCS
 on:
   push:
     branches:
-      - mkdocs
+      - master
 jobs:
   deploy:
     runs-on: ubuntu-latest
