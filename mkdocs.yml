@@ -78,7 +78,7 @@ plugins:
       include_dir: docs
 nav:
   - README.md
-  - Let's Start: 
+  - Basics: 
       - introduction/README.md
       - Identifiers: introduction/IDENTIFIER.md
       - Reserved Words: introduction/ReservedWord.md
