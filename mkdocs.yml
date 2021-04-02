@@ -13,16 +13,16 @@ theme:
     code: Roboto Mono
   language: en
   features:
-    - header.autohide
+    # - header.autohide
     - navigation.tabs
-    - navigation.instant
+    # - navigation.instant
   icon:
     repo: fontawesome/brands/github
 
 copyright: Copyright &copy; 2020 Arjun Adhikari
 repo_url: https://github.com/thearjun/java-notes
 repo_name: thearjun/java-notes
-# edit_uri: ""
+edit_uri: "https://github.com/thearjun/java-notes/tree/mkdocs/docs/"
 markdown_extensions:
   - meta
   - abbr
