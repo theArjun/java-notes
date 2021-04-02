@@ -17,53 +17,57 @@ Java provides a data structure, the array, which stores a fixed-size sequential 
 - Can only hold similar type of data. To overcome this, we use collection framework.
 
 ## Declaration
-        int[] x;
-        int []x;
-        int x[];
+```java
+int[] x;
+int []x;
+int x[];
+```
 
 ## One Dimensional Array
-        int[6] x; ❌ //  We cannot define size in declaration. So, we must specify in creation.
+```java
+int[6] x; ❌ //  We cannot define size in declaration. So, we must specify in creation.
 
-        String[] args; ✅ Best way
-        String []args;
-        String args[];
+String[] args; ✅ Best way
+String []args;
+String args[];
+```
 
 ## Two Dimensional Array
-        int[][]   x;
-        int   [][]x;
-        int[]   []x;
-        int[]   x[];
-        int   [][]x;
-        int   []x[];
+```java
+int[][]   x;
+int   [][]x;
+int[]   []x;
+int[]   x[];
+int   [][]x;
+int   []x[];
+```
 
 ## Instantiation 
-        int[] x = new int[1000]; // fixed in size.
+```java
+int[] x = new int[1000]; // fixed in size.
+```
         
- ## Initilization
-       int a[]=new int[5];//declaration and instantiation  
-      a[0]=10; 
-      a[1]=20;  
-      a[2]=70;  
-      a[3]=40;  
-      a[4]=50; 
+## Initilization
+```java
+int a[] = new int[5];//declaration and instantiation  
+a[0] = 10; 
+a[1] = 20;  
+a[2] = 70;  
+a[3] = 40;  
+a[4] = 50; 
+```
 
-## Examples
-    int[] a,b; -> 1D Array
-    int[] a[],b[]; -> 2D Array
-    int[] []a,b[]; -> 2D,3D Array
-    int[] a[]b; -> 2D Array
-    int[] []a,b; -> 2D Array
-    int[][]a, []b; ❌ // [ ] can be shared with all, if it comes before variable.
-
-### Note
+## Note
 
 - Every Object in Java is object only.
 - For every array type, corresponding class are available but not available in programming level.
 
-        System.out.println(a.getClass().getName());
+```java
+System.out.println(a.getClass().getName());
+```
 
 | Array Type | Corresponding Class Name |
-|------------|--------------------------|
+| ---------- | ------------------------ |
 | int[ ]     | [ I                      |
 | int[ ][ ]  | [ [ I                    |
 | double[ ]  | [ D                      |
@@ -73,13 +77,22 @@ Java provides a data structure, the array, which stores a fixed-size sequential 
 | char[ ]    | [ C                      |
 | long[ ]    | [ J                      |
 
-    int[]x = new int[]; // ❌ Size should be mentioned.
-    int[]x = new int[0]; ✅
-    int[]x = new int[-2]; // ✅ Runtime error; though compiled.
+## Examples
+```java
+int[] a,b; -> 1D Array
+int[] a[],b[]; -> 2D Array
+int[] []a,b[]; -> 2D,3D Array
+int[] a[]b; -> 2D Array
+int[] []a,b; -> 2D Array
+int[][]a, []b; ❌ // [ ] can be shared with all, if it comes before variable.
 
-    byte b = 20;
-    int[] x = new int[b];
-    int[] x = new int['b']; // Character ASCII gets inputed.
-   
+int[]x = new int[]; // ❌ Size should be mentioned.
+int[]x = new int[0]; ✅
+int[]x = new int[-2]; // ✅ Runtime error; though compiled.
+
+byte b = 20;
+int[] x = new int[b];
+int[] x = new int['b']; // Character ASCII gets inputed.
+```
 
 
