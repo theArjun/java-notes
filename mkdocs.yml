@@ -6,8 +6,8 @@ theme:
   favicon: 'assets/images/java.png'
   logo: 'assets/images/java.png'
   palette:
-    primary: white
-    accent: white
+    primary: teal
+    accent: teal
   font:
     text: Roboto
     code: Roboto Mono
