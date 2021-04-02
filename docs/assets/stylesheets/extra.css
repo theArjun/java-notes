@@ -1,0 +1,140 @@
+@font-face {
+    font-family: "sailec";
+    src: url("../fonts/SailecRegular.woff");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "sailec";
+    src: url("../fonts/SailecRegularItalic.woff");
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "sailec";
+    src: url("../fonts/SailecThin.woff");
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "sailec";
+    src: url("../fonts/SailecThinItalic.woff");
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "sailec";
+    src: url("../fonts/SailecMedium.woff");
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "sailec";
+    src: url("../fonts/SailecMediumItalic.woff");
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "sailec";
+    src: url("../fonts/SailecLight.woff");
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "sailec";
+    src: url("../fonts/SailecLightItalic.woff");
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "sailec";
+    src: url("../fonts/SailecHairline.woff");
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "sailec";
+    src: url("../fonts/SailecHairlineItalic.woff");
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "sailec";
+    src: url("../fonts/SailecBold.woff");
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "sailec";
+    src: url("../fonts/SailecBoldItalic.woff");
+    font-weight: 700;
+    font-style: italic;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ol,
+ul,
+li,
+small,
+strong,
+em,
+blockquote,
+dd,
+i,
+b,
+sub,
+sup,
+del,
+ins,
+mark,
+.md-header-nav__topic,
+.md-source__repository,
+.md-nav__title {
+    font-family: sailec, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.md-nav__title,
+h3 {
+    font-weight: 500;
+}
+
+.md-nav {
+    line-height: 1.5;
+}
+
+.md-source__repository {
+    font-weight: 500;
+    line-height: 1.5;
+}
+
+/* FOR TITLE IN PAGE */
+.md-typeset h1 {
+    font-weight: bold;
+}
+
+.md-typeset h2 {
+    font-weight: 500;
+    color: #44444f;
+}
+
+.md-typeset h3 {
+    font-weight: 500;
+    color: #55555f;
+}

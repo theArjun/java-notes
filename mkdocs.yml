@@ -1,0 +1,84 @@
+site_name: Java Notes
+site_url: https://github.com/thearjun/java-notes
+docs_dir: docs/
+theme:
+  name: material
+  favicon: 'assets/images/java.png'
+  logo: 'assets/images/java.png'
+  palette:
+    primary: white
+    accent: white
+  font:
+    text: Roboto
+    code: Roboto Mono
+  language: en
+  features:
+    - header.autohide
+    - navigation.tabs
+    - navigation.instant
+  icon:
+    repo: fontawesome/brands/github
+
+copyright: Copyright &copy; 2020 Arjun Adhikari
+repo_url: https://github.com/thearjun/java-notes
+repo_name: thearjun/java-notes
+# edit_uri: ""
+# markdown_extensions:
+#   - meta
+#   - abbr
+#   - admonition
+#   - pymdownx.details
+#   - attr_list
+#   - pymdownx.highlight:
+#       linenums_style: pymdownx.inline
+#   - pymdownx.superfences
+#   - pymdownx.inlinehilite
+#   - pymdownx.snippets
+#   - pymdownx.keys
+#   - pymdownx.tabbed
+#   - pymdownx.betterem:
+#       smart_enable: all
+#   - pymdownx.caret
+#   - pymdownx.mark
+#   - pymdownx.tilde
+#   - pymdownx.smartsymbols
+#   - def_list
+#   - pymdownx.tasklist:
+#       custom_checkbox: true
+#   - pymdownx.arithmatex:
+#       generic: true
+google_analytics:
+  - UA-123982482-1
+  - auto
+extra:
+  generator: false
+  disqus: thearjun
+  manifest: manifest.webmanifest
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/thearjun
+    - icon: fontawesome/brands/github
+      link: https://github.com/thearjun
+    - icon: fontawesome/solid/envelope
+      link: mailto:mailarjunadhikari@gmail.com
+    - icon: fontawesome/solid/user-md
+      link: https://www.upwork.com/freelancers/~017a123f27939046d8
+
+extra_javascript:
+  - assets/javascripts/extra.js
+  - assets/javascripts/config.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+extra_css:
+  - assets/stylesheets/extra.css
+
+plugins:
+  - search
+nav:
+  - Let's Start: 
+      - introduction/README.md
+      - Identifiers: introduction/IDENTIFIER.md
+      - Reserved Words: introduction/ReservedWord.md
+      - Data Types: introduction/DataTypes.md
+  - Arrays: 
+      - Introduction: array/README.md
