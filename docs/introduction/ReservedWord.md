@@ -14,25 +14,30 @@
 
 ### Exception Handling (6)
 
+```
 1. try
 2. catch
 3. finally
 4. throw
 5. throws
 6. assert
+```
 
 
 ### Class Related (6)  
 
+```
 1. class
 2. interface
 3. extends
 4. implements
 5. package
 6. import
+```
 
 ### For Data Type (8)  
 
+```
 1. byte
 2. short
 3. int
@@ -41,9 +46,11 @@
 6. double
 7. boolean
 8. char
+```
 
 ### Control Flow (11) 
 
+```
 1. if
 2. else
 3. switch
@@ -55,9 +62,11 @@
 9. break
 10. continue
 11. return
+```
 
 ### Modifier (11)  
 
+```
 1. public
 2. private
 3. protected
@@ -69,6 +78,7 @@
 9. strictfp
 10. transient
 11. volatile
+```
 
 
 | Reserved Word                                                                                                                                                                | Keywords                                                                                         |  
