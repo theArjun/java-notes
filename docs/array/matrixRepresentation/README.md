@@ -9,3 +9,9 @@ This type of array declaration is represented in matrix form. Memory wastage is 
 ```java
 {% include 'array/matrixRepresentation/matrixRepresentation.java' %}
 ```
+
+## Conventional Representation
+This method of declaring array is often referred as conventional way of declaring array.
+```java
+{% include 'array/conventional/conventionalWay.java' %}
+```
