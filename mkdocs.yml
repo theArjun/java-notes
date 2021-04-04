@@ -98,7 +98,12 @@ nav:
       - Check Internet Conneciton: networking/checkInternetConnection/README.md
       - WHOIS Implementation: networking/whoisImplementation/README.md
       - InetAddress: networking/InetAddress/README.md
-      - Socket Programming: networking/SocketProgramming.md
+      - Socket Programming: networking/SocketProgramming/README.md
+      - Server to Client Mesaging: networking/ServerToClient/README.md
+      - Client to Server Mesaging: networking/chatApplication/README.md
+      - Dual Connection: networking/dualConnection/README.md
+      - Connection Less: networking/ConnectionLess/README.md
+      - UDP Messaging: networking/UDPMessaging/README.md
   - Exams:
       - Programming: exams/examQuestions/ProgrammingQuestions.md
       - General: exams/examQuestions/README.md

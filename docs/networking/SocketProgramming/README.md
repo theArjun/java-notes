@@ -20,3 +20,8 @@
 |- ```public synchronized void close()```||        
 
 
+## Implementation
+```java
+{% include 'networking/SocketProgramming/TryWithResources.java' %}
+```
+
