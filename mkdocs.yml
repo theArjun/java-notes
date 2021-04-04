@@ -89,6 +89,16 @@ nav:
       - Array Representation 01: array/arrayRepresentation01/README.md
       - Array Representation 02: array/arrayRepresentation02/README.md
       - Examples: array/extra.md
+  - Networking:
+      - Introduction: networking/README.md
+      - URL: networking/URL/README.md
+      - InetAddress: networking/InetAddress/README.md
+      - URLConnection: networking/URLConnection/README.md
+      - HTTP URL Connection: networking/HTTPURLConnection/README.md
+      - Check Internet Conneciton: networking/checkInternetConnection/README.md
+      - WHOIS Implementation: networking/whoisImplementation/README.md
+      - InetAddress: networking/InetAddress/README.md
+      - Socket Programming: networking/SocketProgramming.md
   - Exams:
      - Questions:
         - Programming Questions: exams/examQuestions/ProgrammingQuestions.md

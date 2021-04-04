@@ -17,3 +17,10 @@
 1. ```public String getPort()```
 1. ```public String getFile()```
 1. ```public String getQuery()``` // ?name = "GCES"
+
+
+
+## Implementation
+```java
+{% include 'networking/URLDemo.java' %}
+```

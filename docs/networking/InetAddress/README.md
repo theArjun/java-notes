@@ -10,3 +10,9 @@
 4. ```public static InetAddress getHostAddress() throws UnknownHostException```
 5. ```String toString()```
 - Converts IP Address to a String
+
+## Implementation
+```java
+{% include 'networking/InetAddress/InetAddressDemo.java' %}
+```
+
