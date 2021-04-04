@@ -100,6 +100,5 @@ nav:
       - InetAddress: networking/InetAddress/README.md
       - Socket Programming: networking/SocketProgramming.md
   - Exams:
-     - Questions:
-        - Programming Questions: exams/examQuestions/ProgrammingQuestions.md
-        - General Questions: exams/examQuestions/README.md
+      - Programming: exams/examQuestions/ProgrammingQuestions.md
+      - General: exams/examQuestions/README.md
