@@ -6,8 +6,23 @@ theme:
   favicon: 'assets/images/java.png'
   logo: 'assets/images/java.png'
   palette:
-    primary: teal
-    accent: teal
+    # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep purple
+      accent: deep purple
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep purple
+      accent: deep purple
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
   font:
     text: Roboto
     code: Roboto Mono
