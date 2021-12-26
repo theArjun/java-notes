@@ -15,7 +15,7 @@
         }
 
 String -> Wrapper Class  
-Main -> Name of function  
+main -> Name of function/method
 args -> arguments (variable, used for passing Command Line Arguments)  
 numOne, numTwo -> Variable  
 Hello -> Class Name  
