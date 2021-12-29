@@ -1,6 +1,6 @@
 # Applet Programming
 
-- An applet is a Java program that runs in a wen browser.
+- An applet is a Java program that runs in a web browser.
 - An applet is a Java class that extends the ```java.applet.Applet```.
 - No ```main()``` method
 - Applet was designed to be embedded with a HTML page.
@@ -76,7 +76,6 @@ Note : [ ] ⏩ Optional
 ### **CODE**
 - Code is the required attribute that gives the name of file containing compiled .class file. This file is related to the code base UTL of the applet.
 
-
 ### **ALT**
 - The ALT tag is an alternate tag used to specify a short text message that should be displayed if the browser recognized the applet tag but can't currently run JAVA applet.
 
@@ -90,7 +89,7 @@ Note : [ ] ⏩ Optional
 - ALIGN is an optional attribute that specifies the alignment of the applet. The possible values are LEFT, RIGHT, TOP, BOTTOM, MIDDLE, BASELINE, TEXTTOP, ABSMIDDLE (Absolute Middle) and ABSBOTTOM (Absolute Bottom).
 
 ### **VSPACE and HSPACE**
-- These attributes are optinal. 
+- These attributes are optional. 
 - VSPACE specifies the space in pixel and below the applet.
 - HSPACE specifies the space in pixel on each sides of the applet.
 
