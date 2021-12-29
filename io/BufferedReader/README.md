@@ -3,8 +3,9 @@
 
 ## Constructors :
 
-1. ```BufferedReader br  = new BufferedReader(Reader r);``` ❌ // cannot directly communicate with data.    
-2. ```BufferedReader br  = new BufferedReader(Reader r, int BufferSize);```   
+1. ```BufferedReader br  = new BufferedReader("file.txt");``` ❌ // cannot directly communicate with data.    
+2. ```BufferedReader br  = new BufferedReader(Reader r);```  
+3. ```BufferedReader br  = new BufferedReader(Reader r, int BufferSize);```   
 
 ## Methods
 
