@@ -108,6 +108,14 @@ nav:
       - Array Representation 01: array/arrayRepresentation01/README.md
       - Array Representation 02: array/arrayRepresentation02/README.md
       - Examples: array/extra.md
+  - Applet:
+      - Introduction: applet/README.md
+      - Walk Through: applet/TUTORIAL.md
+      - Examples:
+        - General: applet/EXAMPLES.md
+        - Play Audio: applet/playingAudio/README.md
+        - Display Image: applet/displayingImage/README.md
+
   - I/O:
       - Introduction: io/README.md
       - File: 

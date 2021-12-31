@@ -97,3 +97,8 @@ Note : [ ] ⏩ Optional
 - PARAMNAME is a tag used to specify applet specific arguments.
 - Applets access their attributes with the ```getParameter( )``` 
 
+
+#### Life Cycle of Applet
+```java
+{% include 'applet/lifeCycle/LifeCycle.java' %}
+```

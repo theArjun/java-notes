@@ -12,7 +12,7 @@ import java.applet.*;
 	</applet>
 */
 
-public class Introduction extends Applet{
+public class CustomFont extends Applet{
 	String param;
 	String fontName;
 	String title;
