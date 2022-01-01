@@ -66,3 +66,30 @@ B. Based on the position od declaration or behaviour
  - for every thread separate, local variable is created.
  - For local variable, JVM won't provide default value. So, we must provide value explicitly before using it.
  - For local variable, the only applicable modifier is final. 
+
+## Examples
+#### Life Time Of Variables
+```java
+{% include 'variables/lifeTImeOfVariable.java' %}
+```
+
+#### Scope of Variables - I
+```java
+{% include 'variables/scopeOfVariables.java' %}
+```
+
+#### Scope of Variables - II
+```java
+{% include 'variables/scopeOfVariablesOne.java' %}
+```
+
+
+#### Dynamic Initialization of Variables
+```java
+{% include 'variables/dynamicInitializationOfVariables.java' %}
+```
+
+#### Type Conversion
+```java
+{% include 'variables/typeConversion.java' %}
+```
