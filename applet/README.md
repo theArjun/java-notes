@@ -50,7 +50,7 @@ Whenever an applet is terminated, the following sequence of methods calls takes 
 
 Syntax :
 
-        <Applet
+        <applet
         [CODEBASE = codebaseURL]
         CODE = appletFile
         [ALT = alternateText]
@@ -65,7 +65,7 @@ Syntax :
         [< PARAM NAME = attributeName VALUE = AttributeValue>]  >> Important for Exam 💯
         [HTML Displayed in the absence of Java]
 
-        </APPLET>
+        </applet>
 
 Note : [ ] ⏩ Optional
 
@@ -74,7 +74,7 @@ Note : [ ] ⏩ Optional
 - The HTML Document URL Directory is used as the CODEBASE if this attribute is not specified.
 
 ### **CODE**
-- Code is the required attribute that gives the name of file containing compiled .class file. This file is related to the code base UTL of the applet.
+- Code is the required attribute that gives the name of file containing compiled .class file. This file is related to the code base URL of the applet.
 
 
 ### **ALT**
