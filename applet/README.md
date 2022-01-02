@@ -50,22 +50,22 @@ Whenever an applet is terminated, the following sequence of methods calls takes 
 
 Syntax :
 
-        <Applet
-        [CODEBASE = codebaseURL]
-        CODE = appletFile
-        [ALT = alternateText]
-        [NAME = appletInstanceName]
-        Width = pixels
+        <applet
+        [codebase = codebaseURL]
+        code = appletFile
+        [alt = alternateText]
+        [name = appletInstanceName]
+        width = pixels
         height = pixels
-        [ALIGN = alignment]
-        [VSPACE = pixels]
-        [HSPACE = pixels]
+        [align = alignment]
+        [vspace = pixels]
+        [hspace = pixels]
         >
 
         [< PARAM NAME = attributeName VALUE = AttributeValue>]  >> Important for Exam 💯
         [HTML Displayed in the absence of Java]
 
-        </APPLET>
+        </applet>
 
 Note : [ ] ⏩ Optional
 
