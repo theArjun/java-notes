@@ -18,3 +18,33 @@ int x = 100;
 ```java
 {% include 'literals/literals.java' %}
 ```
+
+#### Float Literal
+##### With F
+```java
+{% include 'literals/testForLiterals/FloatWithF.java' %}
+```
+##### Without F
+```java
+{% include 'literals/testForLiterals/FloatWithoutF.java' %}
+```
+
+#### Double Literal
+##### With D
+```java
+{% include 'literals/testForLiterals/DoubleWithD.java' %}
+```
+##### Without D
+```java
+{% include 'literals/testForLiterals/DoubleWithoutD.java' %}
+```
+
+#### Octal Literal
+```java
+{% include 'literals/testForLiterals/DoubleWithOctalLiteral.java' %}
+```
+
+#### Hexa Decimal Literal
+```java
+{% include 'literals/testForLiterals/DoubleWithHexaDecimalLiteral.java' %}
+```
