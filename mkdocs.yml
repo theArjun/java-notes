@@ -96,6 +96,7 @@ nav:
   - Basics: 
       - introduction/README.md
       - Identifiers: introduction/IDENTIFIER.md
+      - Literals: literals/README.md
       - Reserved Words: introduction/ReservedWord.md
       - Data Types: introduction/DataTypes.md
       - Controls: controlStatements/README.md
