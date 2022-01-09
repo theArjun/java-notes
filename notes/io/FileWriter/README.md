@@ -1,6 +1,8 @@
-# File Writer (Text data or character data)
-
-## Constructors :
+---
+title: File Writer (Text data or character data)
+description: Brief info about FileWriter Class and examples.
+---
+## Constructors
 
 1. ```FileWriter fw  = new FileWriter(String name);```
 2. ```FileWriter fw  = new FileWriter(File f);```
@@ -11,7 +13,7 @@
 
 **If no file is available, this will create that file.**
 
-## Methods :
+## Methods
 1. ```write (int ch)```
 - to write a single character to the file.
 
@@ -23,3 +25,15 @@
 4. ```flush()```
 - To guarantee our data including last char also on written property.
 5. ```close()``` 
+
+
+## Examples
+#### FileWriter Demo
+```java
+{% include 'io/FileWriter/FileWriterDemo.java' %}
+```
+
+#### FileWriter Append Demo
+```java
+{% include 'io/FileWriter/FileWriterAppendDemo.java' %}
+```

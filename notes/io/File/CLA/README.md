@@ -1,4 +1,9 @@
-# Program that displays files and directories based on Command Line Arguments passed.
+---
+title: File CLI App
+description: Program that displays files and directories based on Command Line Arguments passed.
+---
+
+> Program that displays files and directories based on Command Line Arguments passed.
 
 *First path, then filter :)*
 
@@ -26,3 +31,7 @@
         javac DisplayWithCLA.java && java Display C:\Users -f // Displays files from given path.
         javac DisplayWithCLA.java && java Display C:\users -d // Displays directories from given path.
 
+## Source Code
+```java
+{% include 'io/File/CLA/DisplayWithCLA.java' %}
+```

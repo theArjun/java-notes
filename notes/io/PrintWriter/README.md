@@ -1,5 +1,8 @@
-# PrintWriter  
-> Problems of FileWriter and PrintWriter
+---
+title: PrintWriter
+description: Brief info about PrintWriter Class and examples.
+---
+> Solves problems of FileWriter and BufferedWriter
 
 ## Constructors :
 
@@ -16,3 +19,10 @@
 5. ```close()```  
 6. ```print(char ch)...print(int i)...print(boolean b)...print(String s)```   
 7. ```println(char ch)...println(int i)...println(boolean b)...println(String s)```   
+
+## Examples
+#### Write On File
+- Write some text on file named "abc.txt".
+```java
+{% include 'io/PrintWriter/WriteIntoFile.java' %}
+```

@@ -1,4 +1,7 @@
-# BufferedWriter
+---
+title: BufferedWriter
+description: Brief info about BufferedWriter Class and examples.
+---
 
 ## Constructors :
 
@@ -25,3 +28,10 @@
 
 -  BufferedWriter is almost similar to FileWriter but it uses internal buffer to write data into file. So, if the number of write operation are more, the actual IO operations are less and performance is better.  
 - You should use  BufferedWriter when no. of write operations are more.  
+
+## Examples
+#### Write On File
+- Write some text on file named "gces.txt".
+```java
+{% include 'io/BufferedWriter/WriteOnGCES.java' %}
+```
