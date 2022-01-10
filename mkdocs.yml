@@ -99,6 +99,7 @@ nav:
       - Reserved Words: introduction/ReservedWord.md
       - Data Types: introduction/DataTypes.md
       - Controls: controlStatements/README.md
+      - Data Structures: dataStructures/README.md
   - Arrays: 
       - Introduction: array/README.md
       - Matrix Representation: array/matrixRepresentation/README.md
