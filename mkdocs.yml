@@ -1,6 +1,6 @@
 site_name: Java Notes
 site_url: https://github.com/thearjun/java-notes
-docs_dir: docs/
+docs_dir: notes/
 theme:
   name: material
   favicon: 'assets/images/java.png'
@@ -37,7 +37,7 @@ theme:
 copyright: Copyright &copy; 2020 Arjun Adhikari
 repo_url: https://github.com/thearjun/java-notes
 repo_name: thearjun/java-notes
-edit_uri: "https://github.com/thearjun/java-notes/tree/master/docs/"
+edit_uri: "https://github.com/thearjun/java-notes/tree/master/notes/"
 markdown_extensions:
   - meta
   - abbr
@@ -90,7 +90,7 @@ extra_css:
 plugins:
   - search
   - macros:
-      include_dir: docs
+      include_dir: notes
 nav:
   - README.md
   - Basics: 
