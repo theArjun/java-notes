@@ -1,6 +1,6 @@
 # Applet Programming
 
-- An applet is a Java program that runs in a wen browser.
+- An applet is a Java program that runs in a web browser.
 - An applet is a Java class that extends the ```java.applet.Applet```.
 - No ```main()``` method
 - Applet was designed to be embedded with a HTML page.
@@ -50,22 +50,22 @@ Whenever an applet is terminated, the following sequence of methods calls takes 
 
 Syntax :
 
-        <Applet
-        [CODEBASE = codebaseURL]
-        CODE = appletFile
-        [ALT = alternateText]
-        [NAME = appletInstanceName]
-        Width = pixels
+        <applet
+        [codebase = codebaseURL]
+        code = appletFile
+        [alt = alternateText]
+        [name = appletInstanceName]
+        width = pixels
         height = pixels
-        [ALIGN = alignment]
-        [VSPACE = pixels]
-        [HSPACE = pixels]
+        [align = alignment]
+        [vspace = pixels]
+        [hspace = pixels]
         >
 
         [< PARAM NAME = attributeName VALUE = AttributeValue>]  >> Important for Exam 💯
         [HTML Displayed in the absence of Java]
 
-        </APPLET>
+        </applet>
 
 Note : [ ] ⏩ Optional
 
@@ -74,8 +74,7 @@ Note : [ ] ⏩ Optional
 - The HTML Document URL Directory is used as the CODEBASE if this attribute is not specified.
 
 ### **CODE**
-- Code is the required attribute that gives the name of file containing compiled .class file. This file is related to the code base UTL of the applet.
-
+- Code is the required attribute that gives the name of file containing compiled .class file. This file is related to the code base URL of the applet.
 
 ### **ALT**
 - The ALT tag is an alternate tag used to specify a short text message that should be displayed if the browser recognized the applet tag but can't currently run JAVA applet.
@@ -90,7 +89,7 @@ Note : [ ] ⏩ Optional
 - ALIGN is an optional attribute that specifies the alignment of the applet. The possible values are LEFT, RIGHT, TOP, BOTTOM, MIDDLE, BASELINE, TEXTTOP, ABSMIDDLE (Absolute Middle) and ABSBOTTOM (Absolute Bottom).
 
 ### **VSPACE and HSPACE**
-- These attributes are optinal. 
+- These attributes are optional. 
 - VSPACE specifies the space in pixel and below the applet.
 - HSPACE specifies the space in pixel on each sides of the applet.
 
