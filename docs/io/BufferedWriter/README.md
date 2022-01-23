@@ -23,5 +23,5 @@
 6. ```newLine()```  
     - To insert line separator.  
 
--  BufferedWriter is almost similar to FileWriter but it uses internal buffer to write data info file. So, if the number of write operation are more, the actual IO operations are less and performance is better.  
+-  BufferedWriter is almost similar to FileWriter but it uses internal buffer to write data into file. So, if the number of write operation are more, the actual IO operations are less and performance is better.  
 - You should use  BufferedWriter when no. of write operations are more.  
