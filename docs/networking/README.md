@@ -31,7 +31,7 @@
 
 2. Protocol
 - It is a set of rules basically that is followed for communication.  
-Eg: TCP, UDP, FTP, POP, SMTOP, HTTP, HTTPS
+Eg: TCP, UDP, FTP, POP, SMTP, HTTP, HTTPS
 
 3. Port Number
 - The port number is used to uniquely identify different applications. It acts as a communication end point between applications.

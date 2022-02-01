@@ -1,4 +1,4 @@
-# File Writer (Test data or character data)
+# File Writer (Text data or character data)
 
 ## Constructors :
 

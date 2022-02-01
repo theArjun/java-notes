@@ -17,16 +17,16 @@ class Hello{
 ```
 
 String -> Wrapper Class  
-Main -> Name of function  
+main -> Name of function/identifier
 args -> arguments (variable, used for passing Command Line Arguments)  
 numOne, numTwo -> Variable  
 Hello -> Class Name  
 
-| username  | ✅ |
-|-----------|---|
-| #username | ❌ |
-| num1      | ✅ | 
-| 1num      | ❌ | 
+| username  | ✅   |
+| --------- | --- |
+| #username | ❌   |
+| num1      | ✅   |
+| 1num      | ❌   |
 
 ```java
 class Test{
