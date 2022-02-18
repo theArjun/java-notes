@@ -23,7 +23,7 @@ mkdocs-macros-plugin==0.5.5
 mkdocs-material==7.1.0
 mkdocs-material-extensions==1.0.1
 msgpack==0.6.2
-nltk==3.5
+nltk==3.6.6
 packaging==20.3
 pep517==0.8.2
 progress==1.5
