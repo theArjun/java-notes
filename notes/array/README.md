@@ -94,5 +94,9 @@ byte b = 20;
 int[] x = new int[b];
 int[] x = new int['b']; // Character ASCII gets inputed.
 ```
+## Internal Representation
+Follwing way, we can know more about the internal representation of Arrays.
 
-
+```java
+{% include 'general/internalRepresentation.java' %}
+```
