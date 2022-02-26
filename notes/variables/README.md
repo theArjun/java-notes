@@ -94,5 +94,5 @@ B. Based on the position of declaration or behaviour
 
 #### Type Conversion
 ```java
-{% include 'variables/typeConversion.java' %}
+{% include 'variables/typeconversion.java' %}
 ```
