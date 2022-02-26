@@ -19,13 +19,13 @@ To execute the applet by HTML file, create an applet and compile it. After that 
       
     }  
 
->Note:  
-
-Class must be public because its object is created by Java Plugin software that resides on the browser.
+>Note:  Class must be public because its object is created by Java Plugin software that resides on the browser.
 HelloApplet.html
 
     <html>
-        <title>Applet's Demonstration</title>  
+        <head>
+            <title>Applet's Demonstration</title>  
+        </head>    
         <body>  
             <applet code="HelloApplet.class" width="300" height="300">  
             </applet>  
