@@ -90,7 +90,7 @@ Note : [ ] ⏩ Optional
 
 ### **VSPACE and HSPACE**
 - These attributes are optional. 
-- VSPACE specifies the space in pixel and below the applet.
+- VSPACE specifies the space in pixel above and below the applet.
 - HSPACE specifies the space in pixel on each sides of the applet.
 
 ### **PARAM NAME and VALUE**
